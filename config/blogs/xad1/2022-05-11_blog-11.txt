@@ -1,0 +1,62 @@
+Author:	xad1
+Week: Integration Week
+
+
+Actions
+==========
+
+Monday
+Created an algorithm to find the nearest port in the direction the player is facing for use with chance cards.
+Fixed bugs in the Battle class by redoing the setCardsWon() method.
+Made the bay textures appear.
+
+Hours: 8
+
+
+Tuesday
+Helped integrate the battle screen into the game. Fixed battle issues which were caused by players drawing. 
+
+Hours: 8
+
+
+Wednesday
+Implemented check to make sure the player can not move to the same tile as another ship when it is on a coast or port. 
+Made sure that the player being passed is not asked if they want to battle if they are on a coast or port. 
+Fixed more issues with the battle screen when players were drawing. 
+Redesigned the battle screen to make it look more consistent with the rest of the game.
+Stopped the game from being able to be resized.
+
+Hours: 8
+
+
+Thursday
+Removed the option to pick between treasures and cards from the battle screen to fit more with functional requirements.
+Helped with the code for the end screen (loading player image, loading treasures that the player has).
+Created method to check whether the current player has won the game and loads the end screen which runs when unloading treasure to the port.
+Implemented the quit and continue buttons on the end screen.
+Fixed bug where the first click of the continue button on the battle screen would result in errors.
+Fixed another bug with the battle screen when drawing.
+Changed game screen design to look better and be easier to read.
+
+Hours: 10
+
+Friday
+Changed the direction arrow code and renamed many image files so we now have different colour arrows for the different players.
+Stopped players from being able to close popup windows without clicking one of the buttons.
+Removed the unused rules button from the game screen.
+Helped research a solution to resizing the player text on the game screen when the user has a long name.
+Wrote blog
+Project completed and submitted
+
+Hours: 6
+
+
+Tuesday (10/5/22)
+Helped with the maintenance manual.
+
+Hours: 3
+
+
+
+
+Total Hours: 43

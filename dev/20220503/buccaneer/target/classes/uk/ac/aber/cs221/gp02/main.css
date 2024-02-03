@@ -1,0 +1,168 @@
+.rootPane{
+    -fx-background-image: url(textures/background.png);
+    -fx-background-size: stretch;
+    -fx-font-family: "Blackadder ITC";
+}
+
+
+HBox {
+    -fx-spacing: 5px;
+}
+
+Button {
+
+    -fx-background-color: linear-gradient(from 20px 20px to 40px 40px, #7a4715, #965e00);
+    -fx-font-family: "Blackadder ITC";
+    -fx-border-color: #000000;
+    -fx-border-width: 2px;
+    -fx-border-radius: 3px;
+    -fx-background-insets: 1px;
+    -fx-label-padding: 2px;
+    -fx-font-size: 20px;
+    -fx-cursor: hand;
+}
+
+Slider {
+    -fx-control-inner-background: #e7ac52;
+    -fx-text-box-border: #000000;
+    -fx-background-insets: 3px;
+}
+Slider .thumb{
+    -fx-background-color: #fff3cc;
+    -fx-border-color: #000000;
+    -fx-border-width: 1px;
+    -fx-border-radius: 10px;
+    -fx-cursor: open_hand;
+
+}
+
+Slider .thumb:pressed{
+    -fx-cursor: closed_hand;
+}
+
+.itemLabel{
+    -fx-font-size: 25px;
+}
+
+.nickBg{
+    -fx-background-image: url("images/bg_sky.png");
+    -fx-background-size: stretch;
+}
+
+.battleBg{
+    -fx-background-color: #fff3cc;
+    -fx-border-color: #000000;
+    -fx-font-family: "Blackadder ITC";
+}
+
+
+.moveLabel{
+    -fx-font-family: "Blackadder ITC";
+    -fx-font-size: 40px;
+}
+
+.stateLabel{
+    -fx-font-family: "Blackadder ITC";
+    -fx-font-size: 40px;
+}
+
+.battleLabel{
+    -fx-font-family: "Blackadder ITC";
+    -fx-font-size: 20px;
+}
+
+.objectName {
+    -fx-font-size: 40px;
+}
+.objectDescription{
+    -fx-font-size: 15px;
+    -fx-font-family: "system-ui";
+}
+
+TextArea {
+    -fx-background-color: rgba(53, 89, 119, 0);
+    -fx-font-size: 15px;
+    -fx-text-alignment: CENTER;
+}
+
+Text{
+    -fx-font-family: "Blackadder ITC";
+}
+
+TextArea .scroll-pane {
+    -fx-background-color: transparent;
+}
+
+TextArea .scroll-pane .viewport{
+    -fx-background-color: transparent;
+}
+
+
+TextArea .scroll-pane .content{
+    -fx-background-color: transparent;
+    -fx-text-alignment: center;
+    -fx-cursor: DEFAULT;
+}
+
+TextArea .scroll-pane .content .text {
+    -fx-font-size: 15px;
+    -fx-text-alignment: center;
+}
+
+.pane{
+    -fx-background-image: url("textures/background.png");
+    -fx-font-family: "Blackadder ITC";
+
+}
+.endscreenBackground{
+    -fx-background-image: url("images/EndscreenSunset.png");
+}
+
+.innerbg{
+    -fx-background-image: url("textures/woodlight.png");
+    -fx-font-family: "Blackadder ITC";
+}
+
+
+
+.cardlabel{
+    -fx-padding: 4 4 4 4;
+    -fx-background-image: url("textures/wood.png");
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+
+}
+
+.selected{
+    -fx-border-color: red;
+    -fx-border-width: 3 3 3 3;
+}
+
+.preview {
+    -fx-border-color: black;
+    -fx-border-width: 3 3 3 3;
+}
+
+.nickLabel {
+    -fx-font-size: 20px;
+    -fx-text-fill: #ffffff;
+}
+
+.nickInput {
+    -fx-font-size: 17px;
+    -fx-background-color: #704e09;
+    -fx-min-width: 300px;
+    -fx-text-fill: #d1951d;
+    -fx-prompt-text-fill: #302205;
+}
+
+#errorLabel {
+    -fx-text-fill: #cc1111;
+    -fx-background-color: #110000;
+    -fx-font-size: 25px;
+    -fx-padding: 5px, 5px;
+}
+.stateLabel {
+    -fx-font-size: 20px;
+    -fx-font-family: "Arial Black";
+}

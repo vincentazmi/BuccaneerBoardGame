@@ -1,0 +1,23 @@
+Author: mub11
+Week :4 (25/02/2022)
+
+Assigned Actions:
+===============
+
+Action 1:
+	- Created a config_refs file under config directory.
+	- Hours: 10mins
+	
+Action 2:
+	- Had the UI Spec review meeting and noted issues to be fixed. Shared issues with rest of the group.
+	- Hours: 1.5
+	
+Action 3: 
+	- Went over Requirements Spec to help with writing the rule book for the game.
+	- Hours: 1
+	
+Action 4:
+	- Updated the use cases in the UI Document to ensure they cover all the product functions from the requirement specification
+	- Hours: 1
+	
+Total Hours: 4 Hours

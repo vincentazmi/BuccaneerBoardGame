@@ -1,0 +1,16 @@
+Author: alg68
+Week :7 (21/03/2022)
+
+Assigned Actions:
+===============
+
+Action 1: 	7
+-  Coded the prototype for the trade screen in JavaFX. It takes in and loads cards onto the screen and then edits the player
+and ports cards and treasure array accordingly.
+
+Hours: 7
+
+
+
+Total Hours: 7
+

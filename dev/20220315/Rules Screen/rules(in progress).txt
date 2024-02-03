@@ -1,0 +1,86 @@
+Game rules:
+
+The aim of the game:
+
+Gather 20 points of treasure and return it all to your home port.
+There are five different treasures:
+Diamonds worth 5 points
+Rubies worth 5 points
+Gold bards worth 4 points
+Pearls worth 3 points
+Barrels of rum worth 2 points
+
+
+
+At the start of the game:
+
+Each player is dealt five crew cards and their ships placed on the board at their home ports.
+The round order is as follows: London -> Genoa -> Marseilles -> Cadiz
+
+
+Cards:
+Each crew card can have a value of 1, 2 or 3 indicating number of pirates.
+The colour is either red or black.
+The distance a player can move per turn is the total value of all crew cards.
+The fighting strength used for battling is calculated by the total value of the difference between red and black cards.
+
+
+
+Ship Movement:
+
+You may or may not move your ship in its current direction.
+Then you may rotate your ship.
+You cannot rotate and then move in the same turn.
+If you are in a port you cannot rotate, you must move.
+You may move as many squares as the total value of crew cards in your hand.
+You cannot rotate your ship in a direction where you cannot move at least one square the next turn.
+
+
+
+Initiate Battles:
+
+You can battle other players by moving to their ships' square.
+If another player moves through your square you have the option to battle them or let them pass.
+
+
+
+Calculate winner:
+
+The fighting strength determines the winner of the battle.
+The fighting strength of each player is determined
+by the value of the difference between red and black cards in the player's hand.
+
+
+
+Winner reward:
+
+The if the loser has treasure and the winner has space, the winner gets the treasure,
+any extra treasure is returned to treasure island.
+If the loser has no treasure but does have cards, the two lowest value cards are given to the winner.
+The winner does not move or change direction.
+
+
+
+Loser outcome:
+
+The loser must move at least one square, up to the maximum squares they can, in any direction,
+followed by a change in direction.
+
+
+Treasure Island:
+If after moving a player is on a square adjacent to treasure island,
+they are dealt a chance card.
+
+
+
+Flat island:
+If after moving a player is on a square adjacent to flat island,
+they are awarded any treasure there from most to least valuable.
+
+
+
+
+
+
+
+

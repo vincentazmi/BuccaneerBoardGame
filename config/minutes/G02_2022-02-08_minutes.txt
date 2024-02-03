@@ -1,0 +1,102 @@
+CS22120 Project: Group 02
+Meeting: Weekly Project Meeting
+Persons present: All project members, plus project manager 
+Place and date of meeting: P5-0.62, Tuesday 8th February 2022
+
+Circulation list: All project members, plus project manager
+Author: Yasir Saleem Shaikh
+Date of minutes: 8th February 2022
+Version: 1.0
+
+Matters arising:
+===========
+
+1 All group members need to read the Project requirements 
+and Group Intro documents by next week and know about what 
+the project will do. ACTION: Everyone
+
+Done.
+
+2 All group members to check how to add blog entries on a weekly
+basis to the group GitLab repository. See SE.QA.08 for details. 
+Add your first blog entry to the repository before
+the next tutorial. ACTION: Everyone
+
+Checked blog of each student. Provided comments to update the blogs.
+
+3 alg68, kha9 and dah73 will read SE.QA.04 and start work on material for the user interface document. 
+They will also start putting together some possible screens in Powerpoint. ACTION: alg68, kha9, dah73
+
+Presented.
+
+4 alf56 and all49 will read SE.QA.06 and start drafting a list of repeatable tests.  
+They will sketch some tests for functional requirements 
+(alf56 for FR1, FR2, FR3, all49 for FR4, FR5, FR6) from 
+the Requirements specification.  ACTION:  alf56, all49
+
+alf56 presented.
+all49 will present in the next meeting.
+
+5 add32, via8 and xad1 will start looking at the technical issues of the project. 
+add32 will use JavaFX to make some example screens for the application. 
+xad1 will investigate how to represent states: state design pattern. 
+via8 will investigate the options for saving Java objects to persistent storage 
+and tell us next week what the choices are.  ACTION: add32, xad1, via8
+
+Presented.
+
+6 mub11 will look at documents SE.QA01, SE.QA.02, SE.QA.03 before 
+next week and come along ready to summarise them in 5 minutes 
+for the group. ACTION: mub11
+
+Will present in the next meeting
+
+7 The group will meet on Sunday 6 February 2022 at 12:00 to make sure the group GitLab repository
+is set up correctly and everyone can use it. Action: Everyone
+
+Done. 
+
+New business:
+===========
+ 
+1. Ongoing Tasks
+
+1.1 all49 will present repeatable tests for FR4, FR5, FR6. ACTION: all49
+
+1.2 mub11 will give 5 minutes presentation on documents SE.QA.01, SE.QA.02, SE.QA.03. ACTION: mub11
+
+1.3 kha9, alg68 and dah73 will identify typical users, use cases and 
+use case descriptions and to improve screens. 
+alg68 and dah73 for typical users and descriptions and improve screens. 
+kha9 to improve existing screens.
+kha9 to identify further screens.
+ACTION: kha9, alg68 and dah73
+
+1.4 alf56 and all49 will will continue drafting a list of repeatable tests.  
+alf56 and all49 to improve existing tests. 
+They will sketch some tests for functional requirements 
+(alf56 for FR7, FR8, FR9, all49 for FR10, FR11, FR12) from the Requirements specification.  
+ACTION: alf56 and all49
+
+1.5 add32, via8 and xad1 will continue looking at the technical issues of the project. 
+add32 will continue to use JavaFX to make some example screens for the application.
+via8 will look into upcoming technical issues and saving Java objects.
+xad1 will investigate how to represent states: state design pattern.
+Action: add32, via8, xad1 
+
+1.6 mub11 will look at documents SE.QA07, SE.QA.08, before 
+next week and come along ready to summarise them in 5 minutes 
+for the group. ACTION: mub11
+
+1.7 Update blogs of previous week by following the specifications provided in SE.QA.08 and 
+the comments of project manager provided in the meeting. ACTION: Everyone
+
+2. New for next week
+
+2.1 Decide on who will be the Project Leader, Deputy Project Leader, QA Manager, and Deputy QA Manager. ACTION: Everyone
+
+AOB
+===
+NONE
+
+Minutes by yss1, 8th February 2022

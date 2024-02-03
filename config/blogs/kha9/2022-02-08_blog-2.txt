@@ -1,0 +1,16 @@
+Author: kha9
+Week: 2 (08/02/22)
+Assigned actions
+============
+Action 1: Make further screens and identify any others to be designed
+
+Hours: 2
+
+Action 2: Update week 1 blog to follow the correct standards
+
+Hours: 0.25
+
+Action 3: Meet and decide the leader, deputy leader, QA Manager and Deputy QA Manager.
+Hours: 1
+
+Total hours: 3.25

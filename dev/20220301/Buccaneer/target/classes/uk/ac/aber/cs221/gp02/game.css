@@ -1,0 +1,38 @@
+.rootPane{
+    -fx-background-image: url("textures/background.png");
+    -fx-background-repeat: repeat;
+    -fx-font-family: "Blackadder ITC";
+}
+
+Button {
+    -fx-background-color: linear-gradient(from 20px 20px to 40px 40px, #7a4715, #965e00);
+    -fx-font-size: 25px;
+}
+
+.itemLabel{
+    -fx-font-size: 20px;
+}
+
+.objectName {
+    -fx-font-size: 30px;
+}
+.objectDescription{
+    -fx-font-size: 15px;
+}
+
+TextArea {
+    -fx-background-color: rgba(53, 89, 119, 0);
+}
+
+TextArea .scroll-pane {
+    -fx-background-color: transparent;
+}
+
+TextArea .scroll-pane .viewport{
+    -fx-background-color: transparent;
+}
+
+
+TextArea .scroll-pane .content{
+    -fx-background-color: transparent;
+}

@@ -1,0 +1,44 @@
+Author: dah73
+week: 1 (07/02/22)
+
+Assigned actions
+================
+Action 1: Read through the project requirements and group intro documents.
+
+Read through the project requarments document 
+
+Hours: 0.5
+
+Action 2: All group members to check how to add blog entries on a weekly
+basis to the group GitLab repository. See SE.QA.08 for details.
+
+I read the operating procedures and configuration managment document
+and wrote my first blog entry. 
+
+Hours: 0.5
+
+Action 3: read SE.QA.04 and start work on material for the user interface document. 
+
+Started writing the user interface document. 
+
+Hours: 2
+
+Action 4:The group will meet on Sunday 6 February 2022 at 12:00 to make sure the group GitLab repository
+is set up correctly and everyone can use it.
+
+We had a meeting through discord where we made sure we had a repository and everyone could use it. 
+
+Hours: 1 
+
+Other project work
+=================
+I started doing online reaserach on how the game works.
+
+Hours: 1
+
+
+Total Hours: 5
+
+
+
+

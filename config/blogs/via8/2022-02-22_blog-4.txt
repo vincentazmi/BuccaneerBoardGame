@@ -1,0 +1,14 @@
+Author: via8
+Week: 4 (28/02/22)
+
+Assigned actions
+============
+Action 1: Implement Nicknames screen in main menu application
+Hours: 3
+
+Other project work
+================
+Converted code based JavaFX UI to FXML files.
+Hours: 2
+
+Total hours: 4

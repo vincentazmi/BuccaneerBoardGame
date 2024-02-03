@@ -1,0 +1,17 @@
+Author: all49
+Week :3 (21/02/2022)
+
+Assigned Actions:
+===============
+
+Action 1:	1.2
+- Completed making a draft of the tests for FR13, FR14, FR15 in the correct document format.
+- Hours: 2.5
+
+
+Action 2: 	1.4
+- I read SE.QA.07 Review Standards in preparation for reviews this week.
+- Hours: 0.25
+
+
+Total Hours: 2.75

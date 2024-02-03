@@ -1,0 +1,83 @@
+Author: all49
+Week :11 (02/05 - 06/05/2022)
+
+Assigned Actions:
+===============
+
+Monday:
+===============
+
+Action 1:
+- all49, alf56 will discuss to include more tests for the behaviours of the chance cards.
+- Hours 1
+
+Action 2:
+- Started work on Testing Report
+- Hours 2
+
+Action 3:
+- Researched and started on UML component diagram
+- Hours 4
+
+===============
+Tuesday:
+===============
+Action 1:
+- Continued with UML diagram
+- Hours 1
+
+Action 2:
+- Started to make some Unit tests
+- Hours 3
+
+Action 3:
+- Started UML class diagrams after reading further into the design spec
+- Hours 3
+
+===============
+Wednesday:
+===============
+Action 1:
+- Continued with UML class diagram
+- Hours 4
+
+Action 2:
+- Looked at possible Unit tests that could be made
+- Hours 2.5
+
+===============
+Thursday:
+===============
+Action 1:
+- Made amendments to TestSpec doc
+- Hours 2
+
+Action 2:
+- Completed the Testing Report
+- Hours 1
+
+Action 3:
+- Added JUnit Tests to main project
+- Hours 2
+
+Action 4:
+- Began adding Equivalence Partitions to TestSpec
+- Hours 2
+
+Action 5:
+- Looked into Boundary testing
+- Hours 1
+
+===============
+Friday:
+===============
+Action 1:
+- Added JUnit Tests to main project
+- Hours 3
+
+Action 2:
+- Reported test results in the Testing Report
+- Hours 2
+
+
+Total Hours: 34

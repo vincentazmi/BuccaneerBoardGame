@@ -1,0 +1,47 @@
+Author: alg68
+Week :11 (10/05/2022)
+
+Assigned Actions:
+===============
+
+Integration and Testing Week:
+
+Action 1: Monday:
+- Configured coding repository, Implemented Trading, Worked on coastline recognition and started implementing islands, helped debugging A* Pathfinding
+Hours: 8
+
+Action 2: Tuesday:
+- Implemented live UI elements, implemented showing what treasure is on the ship, finished coding basic island functions
+Hours: 8
+
+Action 3: Wednesday:
+- Added safe zone, implemented making move, rotate, and end turn buttons only clickable when allowed by game, set up
+Hours: 8
+
+Action 4: Thursday:
+- Started working on the save&load mechanism using JSONSimple, added moves counter for players, added additional UI elements
+Hours: 8
+
+Action 5: Friday:
+- Implemented synchronizing crew cards in a players hand and their port, added Javadoc to public methods, configured group repo for submission
+Hours: 7
+
+
+
+Other project work
+=================
+
+
+- Worked with group members completing outstanding documents (maintenance manual & EOP report) (9.5.22)
+Hours: 3
+
+- Acceptance Testing Meeting
+Hours: 1
+
+- Worked with group members completing outstanding documents (maintenance manual & EOP report) (10.5.22)
+Hours: 6
+
+
+
+Total Hours: 49
+

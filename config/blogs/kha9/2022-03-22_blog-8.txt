@@ -1,0 +1,43 @@
+Author:  kha9
+Week: 8 (28/03/22)
+
+Assigned actions
+============
+Action 1:
+Attended formal review meeting.
+
+Hours: 2
+
+Action 2: 
+Research on fxml and css
+
+Hours: 2
+
+Action 3:
+Designing game screen on intellij
+
+Hours: 1.5
+
+
+
+
+Other project work
+================
+Action 1:
+Finish work fixing ui document
+
+Hours: 1
+
+Action 2:
+Finalise powerpoint design slides
+
+Hours: 2
+
+Action 3:
+Fixing problems with intellij and project
+
+Hours: 1
+
+
+
+Total Hours: 9.5

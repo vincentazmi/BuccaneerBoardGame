@@ -1,0 +1,21 @@
+Author: alg68
+Week :10 (3/05/2022)
+
+Assigned Actions:
+===============
+
+Action 1: Review Trading screen code and implement to main code, go through it with project leader
+Hours: 1
+
+Action 2: Work on Sequence Diagrams
+Hours: 1
+
+Other project work
+=================
+- Internal meeting to discuss ITW and technical meeting to discuss most important algorithms and functional requirements
+Hours: 3
+
+
+
+Total Hours: 5
+

@@ -1,0 +1,33 @@
+Author: mub11
+Week: 7 (15/03/2022)
+
+Assigned Actions:
+=================
+
+Action 1: 
+- Checked that the issues made to fix the UI specification has been fixed.
+- Hours: 1
+
+Action 2:
+- I was assigned to do the Introduction section in the design specification.
+- Also worked with kha9 and dah73 on the part we were assigned for the design spec, which was Section 2 (Decomposition Description)
+-Hours: 2
+
+
+AOB:
+===
+
+Action 1:
+- I had to go over the program again and try to understand more of it.
+- Hours: 1.5
+
+Action 2:
+- Had a small meeting with add32 to help me understand some of the inner workings of his methods in the 3 big classes better. (Game, Board, GameController)
+- Hours: 1
+
+Action 3:
+- Prepared for the weekly meeting's minutes
+- Hours: 0.5
+
+
+Total Hours: 6

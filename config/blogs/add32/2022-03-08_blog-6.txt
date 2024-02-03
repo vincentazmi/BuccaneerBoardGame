@@ -1,0 +1,20 @@
+Author: add32
+Week: 6 (08/03/22)
+Assigned actions
+============
+Action 1:
+Separate logic from javaFX, start working on states and moving.
+
+Hours: 9
+
+Action 2:
+Team meeting on Wednesday where I went through the code.
+
+Hours 2
+
+
+
+Other project work
+================
+
+Total hours: 11

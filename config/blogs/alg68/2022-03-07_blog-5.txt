@@ -1,0 +1,18 @@
+Author: alg68
+Week :5 (07/03/2022)
+
+Assigned Actions:
+===============
+
+Action 1: 	2
+- Attend the test-spec review meeting. Went through the document as a group.
+ Hours: 2
+
+
+Action 2: 9
+-  Looked into the JavaFx for the trading screen. Developed a first fxml prototype
+ Hours: 3
+
+
+Total Hours: 5
+

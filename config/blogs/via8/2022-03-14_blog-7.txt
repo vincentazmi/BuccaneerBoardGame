@@ -1,0 +1,16 @@
+Author: via8
+Week: 7 (21/03/22)
+
+Assigned actions
+============
+Action 1: Finish rules screen (template can be edited for improved UI down the line)
+Hours: 3
+
+Action 2: Design Specification section 5. Detailed Design
+Hours: 3
+
+Other project work
+================
+Hours: 0
+
+Total hours: 6

@@ -1,0 +1,15 @@
+Author: alf56
+Week: 4 (28/02/22)
+Assigned actions
+============
+Action 1: Making changes and fixes to the merged test specification.
+
+Hours: 0.5
+
+Other project work
+================
+Meeting on Friday
+
+Hours: 1
+
+Total hours: 1.5

@@ -1,0 +1,62 @@
+.rootPane{
+    -fx-background-image: url("textures/background.png");
+    -fx-background-size: stretch;
+    -fx-font-family: "Blackadder ITC";
+}
+
+
+HBox {
+    -fx-spacing: 5px;
+}
+
+Button {
+    -fx-background-color: #fff3cc;
+    -fx-border-color: #000000;
+    -fx-border-width: 1px;
+    -fx-border-radius: 3px;
+    -fx-background-insets: 1px;
+    -fx-label-padding: 2px;
+    -fx-font-size: 25px;
+}
+
+Slider {
+    -fx-control-inner-background: #e7ac52;
+    -fx-text-box-border: #000000;
+    -fx-background-insets: 3px;
+}
+Slider .thumb{
+    -fx-background-color: #fff3cc;
+    -fx-border-color: #000000;
+    -fx-border-width: 1px;
+    -fx-border-radius: 10px;
+
+}
+
+.itemLabel{
+    -fx-font-size: 25px;
+}
+
+.objectName {
+    -fx-font-size: 40px;
+}
+.objectDescription{
+    -fx-font-size: 15px;
+    -fx-font-family: "system-ui";
+}
+
+TextArea {
+    -fx-background-color: rgba(53, 89, 119, 0);
+}
+
+TextArea .scroll-pane {
+    -fx-background-color: transparent;
+}
+
+TextArea .scroll-pane .viewport{
+    -fx-background-color: transparent;
+}
+
+
+TextArea .scroll-pane .content{
+    -fx-background-color: transparent;
+}

@@ -1,0 +1,29 @@
+Author: mub11
+Week: 5(01/03/2022)
+
+Assigned Actions:
+=================
+
+Action 1:
+	- Booked a room to hold the formal review meeting for the Test Spec.
+	- Hours: 5mins
+	
+Action 2: 
+	- Attended and held the Test Spec review. Identified issues to be fixed.
+	- Hours: 2
+	
+Action 3: 
+	- Read the design specification standards document.
+	- Hours: 20mins
+	
+Action 4:
+	- Fixed issues of Test specification.
+	- Hours: 2
+
+Other Project Work:
+===================
+Action 1:
+	- Went through all project members' blogs and found errors to be fixed.
+	- Hours: 20mins
+	
+Total Hours: 5

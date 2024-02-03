@@ -1,0 +1,27 @@
+Author:  dah73
+Week: 7 (21/03/22)
+Assigned actions
+
+============
+Action 1: will design the main menu. 
+
+I finished the main menu and devided it into layer for the animation 
+
+Hours: 2
+
+Action 2: Complete the issues related to UI Document (gitlab issues) because design spec draft is to be done by next week.
+dah73 address the issues created for the Use Case Document.
+
+I completed the issues on error conditions and typical users.
+
+Hours: 2
+
+
+Other project work 
+=================
+
+None this week 
+
+Hours: 0 
+
+Total Hours: 4

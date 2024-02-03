@@ -1,0 +1,30 @@
+Author: via8
+Week: 11 (10/05/22) (Integration week)
+
+Assigned actions
+============
+Action 1: Monday
+Created battlePopupController, detection of crossing ship and entering battle scene
+Hours: 7
+
+Action 2: Tuesday
+Finished crossing ship, moved to game class from gamecontroller, fixed battle screen, fixed p2 is null
+Hours: 7
+
+Action 3: Wednesday
+Move any after battle, started chance cards 1-6, generalized popup window
+Hours: 10
+
+Action 4: Thursday
+Chance cards 6-22
+Hours: 10
+
+Action 5: Friday
+checkLegalDirection, continue loads game, fixed many chance cards, javadoc for main, nicknamecontroller, popupcontroller, rulesscreencontroller
+Hours: 8
+
+
+Other project work
+================
+
+Total hours: 42

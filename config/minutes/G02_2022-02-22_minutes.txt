@@ -1,0 +1,22 @@
+CS22120 Project: Group 02Meeting: Weekly Project MeetingPersons present: All project members, plus project manager Place and date of meeting: P5-0.62, Tuesday 22nd February 2022Circulation list: All project members, plus project managerAuthor: Mukhriz Bin MustafaDate of minutes: 22nd February 2022Version: 1.0Matters arising:===========Complete a draft of the UI specification this week so that it can be formally reviewed by next week: see SE.QA.07.UI specification document need to be released in the week starting 28th February. Take minute actions on people to complete the draft and to meet to discuss how the review will be set up.1 dah73, kha9, alg68 will complete the UI specification draftACTION: dah73, kha9, alg68Done.2 mub11 will book a room for the review meeting, provide relevant documents.ACTION: mub11Done.3 mub11, all49, dah73, kha9, alg68 will review the draft.ACTION: mub11, all49, dah73, kha9, alg68Will be done on Wednesday 23rd @1500.4 alf56 and all49 will continue drafting a list of repeatable tests.  alf56 and all49 to improve existing tests. They will sketch some tests for functional requirements (alf56 for FR16, FR17 all49 for FR13, FR14, FR15) from the Requirements specification.  ACTION: alf56 and all49Done. 5 add32, via8 will continue looking at the technical issues of the project (moving and buttons).alg68, xad1, dah73 will start designing the ports, cliffs, bays and ships.ACTION: add32, via8, alg68, dah73.Done.6 via8 will work on UML Diagrams & Main Menu of the game.ACTION: via8.Done.New Business:===============1 kha9, dah73 will start designing the main menu according to the pixel-y style.
+ACTION: kha9, dah73
+
+2 xad1, dah73, mub11 will design the mud bay and anchor bay and the rest of the treasures.
+ACTION: xad1, dah73, mub11
+
+3 all49 will finish the test specification draft by this week. to be reviewed next week.
+ACTION: all49, alf56
+
+4 mub11 will start config_refs table in the configs folder.
+ACTION: mub11
+
+5  mub11, all49, dah73, kha9, alg68 will review the UI Spec draft.ACTION: mub11, all49, dah73, kha9, alg68
+
+6 add32, via8, xad1 will start the coding for the main menu.
+ACTION: add32, via8, xad1
+
+7 alg68 will start designing the battle screens, trade screens. (draft)
+ACTION: alg68
+
+8 mub11 will start writing the list of rules and the logos for each component for the help menu.
+ACTION: mub11AOB:=====1 Minutes by mub11, 22nd February 2022

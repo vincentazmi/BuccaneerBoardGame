@@ -1,0 +1,17 @@
+Author: via8
+Week: 9 (26/04/22)
+
+Assigned actions
+============
+Action 1: Movement Sequence Diagram
+Hours: 1
+
+Action 2: Basic versions of battle and trading sequence diagrams (not fully implemented yet)
+Hours: 2
+
+Other project work
+================
+Action 1: Internal Meeting
+Hours: 2
+
+Total hours: 5

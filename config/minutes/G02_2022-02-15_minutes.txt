@@ -1,0 +1,99 @@
+CS22120 Project: Group 02
+Meeting: Weekly Project Meeting
+Persons present: All project members, plus project manager 
+Place and date of meeting: P5-0.62, Tuesday 15th February 2022
+
+Circulation list: All project members, plus project manager
+Author: mub11
+Date of minutes: 15th February 2022
+Version: 1.0
+
+Matters arising:
+===========
+
+1 Decide on who will be the Project Leader, Deputy Project Leader, QA Manager, and Deputy QA Manager. ACTION: Everyone
+Project Leader: Lewis, Alessandro all49
+Deputy Project Leader: Hernandez Rodriguez, David Juan dah73
+QA Manager: Bin Mustafa, Ahmad Mukhriz Faruqi mub11
+Deputy QA Manager: Ameen Aslam, Khalid kha9
+
+
+2 mub11 will give 5 minutes presentation on documents SE.QA.01, SE.QA.02, SE.QA.03. ACTION: mub11
+
+done
+
+3 mub11 will look at documents SE.QA07, SE.QA.08, before 
+next week and come along ready to summarise them in 5 minutes 
+for the group. ACTION: mub11
+
+done 
+
+4 all49 will present repeatable tests for FR4, FR5, FR6. ACTION: all49
+
+uploaded.
+
+5 alf56 and all49 will will continue drafting a list of repeatable tests.  
+alf56 and all49 to improve existing tests. 
+They will sketch some tests for functional requirements 
+(alf56 for FR7, FR8, FR9, all49 for FR10, FR11, FR12) from the Requirements specification.  
+ACTION: alf56 and all49
+
+uploaded.
+
+
+1.3 kha9, alg68 and dah73 will identify typical users, use cases and 
+use case descriptions and to improve screens. 
+alg68 and dah73 for typical users and descriptions and improve screens. 
+kha9 to improve existing screens.
+kha9 to identify further screens.
+ACTION: kha9, alg68 and dah73
+
+uploaded.
+
+1.5 add32, via8 and xad1 will continue looking at the technical issues of the project. 
+add32 will continue to use JavaFX to make some example screens for the application.
+via8 will look into upcoming technical issues and saving Java objects.
+xad1 will investigate how to represent states: state design pattern.
+Action: add32, via8, xad1 
+
+done.
+
+1.7 Update blogs of previous week by following the specifications provided in SE.QA.08 and 
+the comments of project manager provided in the meeting. ACTION: Everyone
+
+Done.
+
+SE.QA.03, Section 5.2: "It is best if the blog is updated every time work is done, but it must be up to date by 5pm the day before the weekly tutorial."
+
+
+New business:
+===========
+ 
+1. Ongoing Tasks
+
+1.1	Complete a draft of the UI specification this week so that it can be formally reviewed by next week: see SE.QA.07. 
+UI specification document need to be released in the week starting 28th February. 
+Take minute actions on people to complete the draft and to meet to discuss how the review will be set up.
+dah73, kha9, alg68 will complete the UI specification draft
+mub11 will book a room for the review meeting, provide relevant documents.
+mub11, all49, dah73, kha9, alg68  will review the draft.
+ACTION: mub11, all49, dah73, kha9, alg68
+
+1.2	alf56 and all49 will will continue drafting a list of repeatable tests.  
+alf56 and all49 to improve existing tests. 
+They will sketch some tests for functional requirements 
+(alf56 for FR16, FR17 all49 for FR13, FR14, FR15) from the Requirements specification.  
+ACTION: alf56 and all49
+
+1.3 add32, via8 will continue looking at the technical issues of the project (moving and buttons).
+alg68, xad1, dah73 will stary designing the ports, cliffs, bays and ships.
+ACTION: add32, via8, alg68.
+	
+1.4 via8, will work on UML diagrams & main menu for the game.
+ACTION: via8
+	
+
+AOB
+===
+
+Minutes by mub11,  15th February 2022

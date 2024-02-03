@@ -1,0 +1,53 @@
+CS22120 Project: Group 02
+Meeting: Formal Review Meeting - Design Spec
+Persons present: All project members
+Place and date of meeting: Discord, Wednesday 23rd March 2022
+
+Circulation list: All project members
+Author: Mukhriz Bin Mustafa
+Date of minutes: 23rd March 2022
+Version: 1.0
+
+New Business:
+===============
+
+1 Add your names if you're an author
+ACTION: mub11
+
+2 Fix table of content (include dots for padding)
+ACTION: mub11
+
+3 Add to objectives, include the sections probably
+ACTION: mub11
+
+4 Add to references, Design Spec Standards.
+ACTION: mub11
+
+5 Go over Section 2.3 in the design doc.
+Add classes which haven't been implemented yet.
+ACTION: dah73, kha9, add32
+
+6 Maybe add a different UML diagrams with just the name of the classes to show dependencies.
+ACTION: all49
+
+7 java objects handle logic, controllers to handle graphic parts, also have javafx files that handle layout. Expand 2.1
+ACTION: mub11
+
+8 include save and load functions (class) in the design spec in the interface section. (Section 4)
+ACTION: dah73
+
+9 Go through code thoroughly to understand as best as you can. Question7 in design review standard
+ACTION: EVERYONE
+
+10 Fix fonts to follow template.
+ACTION: mub11
+
+11 add chance card manager classes to include in design spec in the interface section.
+ACTION: TBA
+
+AOB:
+===
+NONE.
+
+
+Minutes by mub11, Wednesday 23/03/2022

@@ -1,0 +1,95 @@
+CS22120 Project: Group 02
+Meeting: Weekly Project Meeting
+Persons present: All project members, plus project manager
+Place and date of meeting: P5-0.62, Tuesday 8th March 2022
+
+Circulation list: All project members, plus project manager
+Author: Mukhriz Bin Mustafa
+Date of minutes: 8th March 2022
+Version: 1.0
+
+Matters arising:
+1 mub11 will book the room to hold the formal review meeting for the Test Spec.
+ACTION: mub11
+
+done.
+
+
+2 mub11, all49, alf56, via8, dah73 will attend the Test Spec Review meeting.
+ACTION: mub11, all49, alf56, via8, dah73
+
+done.
+
+
+3 via8 will continue working on the javaFX code for the main menu.
+ACTION: via8
+
+To continue.
+
+
+4 dah73 will design the main menu.
+ACTION: dah73
+
+To be continued.
+
+
+5 add32, kha9 will work on the layout of the board. (CSS, FXML)
+ACTION: add32, kha9
+
+To continue.
+
+
+6 xad1 will continue working on the battle screen. JavaFX
+ACTION: xad1
+
+To continue.
+
+
+7 all49, alg68 will look into the JavaFx for the trading screen.
+ACTION: all49, alg68
+
+To continue.
+
+
+8 alf56 will look into transferring data between scenes. JavaFX
+ACTION: alf56
+
+done.
+
+9 We all will look into the design specification.
+ACTION: Everyone
+
+done.
+
+
+New Business:
+=============
+
+1 Everyone will attend an internal meeting to discuss the design spec and start planning for the different parts. Wed, 9th March 1500-1700
+ACTION: EVERYONE
+
+2 mub11 will create issues on gitlab based on the feedback for the UI Specification.
+ACTION: mub11
+
+3 via8 will continue working on the javaFX code for the main menu.
+ACTION: via8, alf56
+
+4 dah73 will design the main menu.
+ACTION: dah73
+
+5 add32, kha9 will work on the layout of the board. (CSS, FXML)
+ACTION: add32, kha9
+
+6 xad1 will continue working on the battle screen. JavaFX
+ACTION: xad1
+
+7 all49, alg68 will look into the JavaFx for the trading screen.
+ACTION: all49, alg68
+
+
+
+AOB:
+====
+NONE.
+
+Minutes by mub11, 8th March 2022.

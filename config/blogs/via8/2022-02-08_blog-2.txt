@@ -1,0 +1,16 @@
+Author: via8
+Week: 2 (14/02/22)
+
+Assigned actions
+============
+Action 1: Continue looking into upcoming technical issues and saving java objects
+Familiarised myself with saving java objects using serialization with a test project in intellij
+Watched some tutorials on how to implement this on new and existing projects.
+Hours: 3
+
+Other project work
+================
+Scanned through requirement specification again to make notes of classes and attributes for a UML
+Hours: 1
+
+Total hours: 4

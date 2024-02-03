@@ -1,0 +1,15 @@
+Author: alf56
+Week: 5 (07/03/22)
+Assigned actions
+============
+Action 1: Test spec review
+Hours: 2
+
+Action 2: Learn JavaFX and how to transfer data between scenes
+Hours: 3
+
+
+Other project work
+================
+
+Total hours: 5

@@ -1,0 +1,19 @@
+Author: all49
+Week :5 (07/03/2022)
+
+Assigned Actions:
+===============
+
+Action 1:
+- Finished the test specification draft to be reviewed next week. Added minor changes.
+- Hours 3.5
+
+Action 2:
+- Attend the Test Spec Review meeting.
+- Hours 2
+
+Action 3:
+- Looked into JavaFx for the trading screen.
+- Hours 5
+
+Total Hours: 10.5

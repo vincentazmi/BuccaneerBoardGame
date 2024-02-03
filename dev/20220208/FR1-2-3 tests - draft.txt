@@ -1,0 +1,170 @@
+Req being tested:
+FR1
+
+Test content:
+Check that the user is prompted for the names.
+
+Input:
+Open the executable.
+
+Output:
+The game should start by prompting the user for four names.
+
+Pass criteria:
+The game starts and asks for names without crashing.
+
+----------------------------------
+
+Req being tested:
+FR1
+
+Test content:
+Check that expected input is stored correctly
+
+Input:
+Enter four distinct, non-empty names as prompted.
+
+Output:
+The players' names should now be set to those names.
+
+Pass criteria:
+Names are stored correctly.
+
+----------------------------------
+
+Req being tested:
+FR1
+
+Test content:
+Check that empty names are not allowed.
+
+Input:
+Enter three distinct, non-empty names and leave one empty.
+
+Output:
+Error message warns of empty name. The players' names should not be set yet.
+
+Pass criteria:
+System displays "empty name" error message.
+
+----------------------------------
+
+Req being tested:
+FR1
+
+Test content:
+Check that repeated names are not allowed.
+
+Input:
+Enter four non-empty names such that at least two are the same.
+
+Output:
+Error message warns of repeated names. The players' names should not be set yet.
+
+Pass criteria:
+System displays "repeated names" error message.
+
+----------------------------------
+
+Req being tested:
+FR1
+
+Test content:
+Check that the first character is alphanumeric.       (Could be useful to prevent a name like " " or other blank characters)
+
+Input:
+Enter four distinct, non-empty names such that at least one doesn't start with a letter or number.
+
+Output:
+Error message warns of name not starting with alphanumeric character. The players' names should not be set yet.
+
+Pass criteria:
+System displays "name not starting with alphanumeric character" error message.
+
+----------------------------------
+
+Req being tested:
+FR2
+
+Test content:
+Check that the port assignment works as intended.
+
+Input:
+Follow the instructions to start the game.
+
+Output:
+The four ports should now be assigned to the players.
+
+Pass criteria:
+Each port must be assigned to exactly one player and each player must have exactly one assigned port.
+
+----------------------------------
+
+Req being tested:
+FR3
+
+Test content:
+Check that the number of each kind of card is correct.
+
+Input:
+Follow the instructions to start the game.
+
+Output:
+The 36 cards should now be stored in their specified quantities.
+
+Pass criteria:
+There are six cards of each number (1, 2, 3) for each color (red, black).
+
+----------------------------------
+
+Req being tested:
+FR3
+
+Test content:
+Check that the cards are randomly sorted.
+
+Input:
+Follow the instructions to start the game.
+
+Output:
+The 36 cards should now be stored in a random order.
+
+Pass criteria:
+There is no obvious pattern in the storage of the cards.
+
+----------------------------------
+
+Req being tested:
+FR3
+
+Test content:
+Check that cards are dealt from the top.
+
+Input:
+Play the game until a card is given out.
+
+Output:
+The top card should now be assigned to the player who got it and removed from the original storage.
+
+Pass criteria:
+The top card is assigned to the player and removed from the original storage.
+
+----------------------------------
+
+Req being tested:
+FR3
+
+Test content:
+Check that cards are returned to the bottom.
+
+Input:
+Play the game until a card is returned to the original storage.
+
+Output:
+The card should no longer be assigned to a player and should be added to the bottom of the storage.
+
+Pass criteria:
+The card is no longer assigned to a player and is added to the bottom of the storage.
+
+----------------------------------
+

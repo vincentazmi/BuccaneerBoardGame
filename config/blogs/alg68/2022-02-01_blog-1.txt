@@ -1,0 +1,26 @@
+Author: alg68
+Week :1 (07/02/2022)
+
+Assigned Actions:
+===============
+
+Action 1:	2.1
+- Read project overview and read project requirements specification
+  Hours: 19:00-19:30 (30mins)
+
+
+Action 2: 	2.2
+- Setting up blog and reading SE.QA.08
+  Hours: 19:30 - 20:00 (30mins)
+
+
+Action 3: 	4.1
+- read SE.QA.04 and start work on material for the user interface document, They will also start putting together some possible screens in Powerpoint.
+  Hours: (1 Hour)
+
+ Action 4:
+- Met with group members on 6/2/2022 at 12:00 to set up gitlab repository and blogs
+ Hours: 12:00 - 13:00 (1 Hour)
+
+
+Total Hours: 3 hrs

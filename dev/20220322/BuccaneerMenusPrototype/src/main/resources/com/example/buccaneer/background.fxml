@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.image.*?>
+
+<?import javafx.scene.shape.Rectangle?>
+<StackPane xmlns="http://javafx.com/javafx"
+           xmlns:fx="http://javafx.com/fxml"
+           fx:controller="com.example.buccaneer.BackgroundController"
+           prefHeight="400.0" prefWidth="600.0">
+
+    <ImageView pickOnBounds="true" fitWidth="1285" preserveRatio="false">
+        <image>
+            <Image url="@../../../images/bg_sky.png"/>
+        </image>
+    </ImageView>
+
+    <ImageView pickOnBounds="true" fitWidth="1285" preserveRatio="false">
+        <image>
+            <Image url="@../../../images/bg_ocean1.png"/>
+        </image>
+    </ImageView>
+
+    <ImageView fx:id="ship" pickOnBounds="true" preserveRatio="true">
+        <image>
+            <Image url="@../../../images/bg_ship.png"/>
+        </image>
+    </ImageView>
+
+    <ImageView fx:id="ocean" pickOnBounds="true" fitWidth="1400" preserveRatio="false">
+        <image>
+            <Image url="@../../../images/bg_ocean2.png"/>
+        </image>
+    </ImageView>
+</StackPane>

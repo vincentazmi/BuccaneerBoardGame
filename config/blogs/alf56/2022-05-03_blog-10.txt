@@ -1,0 +1,19 @@
+Author: alf56
+Week: 10 (26/03/22)
+Assigned actions
+============
+Action 1: Have a test report and test table ready to fill in during manual system testing
+Hours: 0.5
+
+Action 2: Test team meeting
+Hours: 0
+
+Action 3: Internal meeting
+Hours: 0.5
+
+Other project work
+================
+Integration week monday
+Hours: 8
+
+Total hours: 9

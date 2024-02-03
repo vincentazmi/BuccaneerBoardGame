@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" styleClass="rootPane" stylesheets="@main.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="uk.ac.aber.cs221.gp02.EndScreenController">
+   <children>
+      <BorderPane prefHeight="400.0" prefWidth="600.0" stylesheets="@main.css" />
+   </children>
+   <ImageView fitWidth="1285" pickOnBounds="true" preserveRatio="false">
+      <image>
+         <Image url="@images/EndscreenSunset.png" />
+      </image>
+   </ImageView>
+   <ImageView fitHeight="689.0" fitWidth="1106.0" layoutX="91.0" layoutY="22.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+         <Image url="@images/EndScreenScroll.png" />
+      </image>
+   </ImageView>
+   <Button fx:id="newbutton" layoutX="645.0" layoutY="558.0" mnemonicParsing="false" onAction="#newButtonPress" text="New Game" />
+   <Button fx:id="quitbutton" layoutX="517.0" layoutY="556.0" mnemonicParsing="false" onAction="#quitButtonPress" text="Quit" />
+   <ImageView fitHeight="142.0" fitWidth="590.0" layoutX="419.0" layoutY="128.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+         <Image url="@images/EndScreenWinner.png" />
+      </image>
+   </ImageView>
+   <ImageView fx:id="WinnerShip" fitHeight="90.0" fitWidth="96.0" layoutX="446.0" layoutY="344.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+         <Image url="@textures/Ship2.png" />
+      </image>
+   </ImageView>
+   <TilePane fx:id="TreasuresPane" alignment="CENTER" layoutX="610.0" layoutY="288.0" prefHeight="213.0" prefWidth="252.0" />
+   <Text fx:id="WinnerName" layoutX="413.0" layoutY="475.0" strokeType="OUTSIDE" strokeWidth="0.0" text="mmmmmmmmm" textAlignment="CENTER" wrappingWidth="153.64499790137506">
+      <font>
+         <Font size="31.0" />
+      </font>
+   </Text>
+</AnchorPane>

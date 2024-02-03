@@ -1,0 +1,21 @@
+Author: kha9
+Week: 7 (15/03/22)
+Assigned actions
+============
+Action 1:
+work on design spec document
+
+Hours: 2
+
+
+
+Other project work
+================
+Action 1:
+Further work fixing ui document
+
+Hours: 2
+
+
+
+Total hours: 4

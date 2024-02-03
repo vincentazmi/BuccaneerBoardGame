@@ -1,0 +1,21 @@
+Author: alg68
+Week :9 (25/04/2022)
+
+Assigned Actions:
+===============
+
+
+Other project work
+=================
+- Implemented the trading screen with the existing prototype and worked on combining the code
+Hours: 4
+
+
+- Internal meeting to discuss upcoming tasks and roles in the integration week. Went over design spec feedback and
+    discussed further steps that need to be taken to delevop the prototype
+Hours: 2
+
+
+
+Total Hours: 6
+

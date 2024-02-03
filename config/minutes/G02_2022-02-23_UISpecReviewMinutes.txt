@@ -1,0 +1,48 @@
+CS22120 Project: Group 02
+Meeting: Formal UI Specification Review Meeting
+Persons present: mub11, all49, dah73, kha9, alg68
+Place and date of meeting: Hugh Owen Library Group Study Room 5, Wednesday 23rd February 2022
+
+Circulation list: Every group member
+Author: Mukhriz Bin Mustafa
+Date of minutes: 23rd February 2022
+Version: 1.0
+
+Matters arising:
+===========
+NONE
+
+New business:
+===========
+1: use case 2.2
+- cover all the product functions from the requirements.
+ACTION: mub11
+
+2: check error conditions
+ACTION: mub11
+
+3: references
+- update references
+ACTION: dah73
+
+4: main menu
+ - update main menu to cover the first and second use case
+ACTION: kha9
+
+5: rule screen
+- add a separate screen for the rule book
+ACTION: kha9
+
+6: Use case 7 
+- adding a trading screen
+ACTION: kha9
+
+7: Flat island interaction
+- include a flat island interaction screen
+ACTION: kha9
+
+8: design Treasure island
+ACTION: alg68
+
+9: design the scroll
+ACTION: dah73

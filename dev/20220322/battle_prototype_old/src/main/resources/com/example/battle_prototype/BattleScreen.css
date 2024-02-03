@@ -1,0 +1,25 @@
+.pane{
+    -fx-background-image: url("bg.png");
+
+}
+
+.innerbg{
+    -fx-background-image: url("woodlight.png");
+}
+
+
+.buttons{
+    -fx-background-image: url("wood.png");
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.selected{
+    -fx-border-color: red;
+    -fx-border-width: 3 3 3 3;
+}
+
+.preview{
+    -fx-border-color: black;
+    -fx-border-width: 3 3 3 3;
+}

@@ -1,0 +1,31 @@
+Author:  dah73
+Week: 5 (07/03/22)
+Assigned actions
+
+============
+Action 1: dah73 will design the main menu.
+
+I created the boat for the main menu
+
+Hours: 7
+
+Action 2: We all will look into the design specification.
+
+Read the desing specification
+
+Hours: 0.1
+
+Action 3: mub11, all49, alf56, via8, dah73 will attend the Test Spec Review meeting.
+
+We reviewed the test Spec 
+
+Hours: 2
+
+Other project work 
+=================
+
+None this week 
+
+Hours: 0 
+
+Total Hours: 9

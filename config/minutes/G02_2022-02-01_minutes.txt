@@ -1,0 +1,70 @@
+CS22120 Project: Group 02
+Meeting: Weekly Project Meeting
+Persons present: All project members except dah73, plus project manager 
+Place and date of meeting: P5-0.62, Tuesday 1st February 2022
+
+Circulation list: All project members, plus project manager
+Author: Yasir Saleem Shaikh
+Date of minutes: 1st February 2022
+Version: 1.0
+
+Matters arising:
+===========
+NONE - first meeting of group
+
+New business:
+===========
+1. Membership of group
+
+Debski, Adrian add32
+Bin Mustafa, Ahmad Mukhriz Faruqi mub11
+Gardemann, Alexander Maximilian Carl alg68
+Azmi, Vincent via8
+Hernandez Rodriguez, David Juan dah73
+Ameen Aslam, Khalid kha9
+Fernandez de la Fuente, Alvaro alf56
+Davies, Xander xad1
+Lewis, Alessandro all49
+
+
+Manager: Yasir Saleem Shaikh, email: yss1
+
+2. Setting up the project arrangements
+
+2.1 All group members need to read the Project requirements 
+and Group Intro documents by next week and know about what 
+the project will do. ACTION: Everyone
+
+2.2 All group members to check how to add blog entries on a weekly
+basis to the group GitLab repository. See SE.QA.08 for details. 
+Add your first blog entry to the repository before
+the next tutorial. ACTION: Everyone
+
+4. Initial Tasks
+
+4.1 alg68, kha9 and dah73 will read SE.QA.04 and start work on material for the user interface document. 
+They will also start putting together some possible screens in Powerpoint. ACTION: alg68, kha9, dah73
+
+4.2 alf56 and all49 will read SE.QA.06 and start drafting a list of repeatable tests.  
+They will sketch some tests for functional requirements 
+(alf56 for FR1, FR2, FR3, all49 for FR4, FR5, FR6) from 
+the Requirements specification.  ACTION:  alf56, all49
+
+4.3 add32, via8 and xad1 will start looking at the technical issues of the project. 
+add32 will use JavaFX to make some example screens for the application. 
+xad1 will investigate how to represent states: state design pattern. 
+via8 will investigate the options for saving Java objects to persistent storage 
+and tell us next week what the choices are.  Action: add32, xad1, via8
+
+4.4 mub11 will look at documents SE.QA01, SE.QA.02, SE.QA.03 before 
+next week and come along ready to summarise them in 5 minutes 
+for the group. ACTION: mub11
+
+4.5 The group will meet on Sunday 6 February 2022 at 12:00 to make sure the group GitLab repository
+is set up correctly and everyone can use it. Action: Everyone
+
+AOB
+===
+NONE
+
+Minutes by yss1, uploaded by alg68

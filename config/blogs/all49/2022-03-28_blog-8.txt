@@ -1,0 +1,15 @@
+Author: all49
+Week :8 (28/03/2022)
+
+Assigned Actions:
+===============
+
+Action 1:
+- Partially fixed issues raised from Chris's test spec feedback
+- Hours 3
+
+Action 2:
+- Generate a different UML diagrams with just the name of the classes
+- Hours 1
+
+Total Hours: 4

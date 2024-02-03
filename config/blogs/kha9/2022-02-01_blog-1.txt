@@ -1,0 +1,37 @@
+Author:KHA9
+Week:1(05/02/22)
+
+Assigned actions
+================
+Action 1: UI screens 
+
+I made a start to designing some screens for the UI of the game to accomplish this I did some individual research on the Buccaneer game.
+Once i was satisfied i had fully underatood the game I started the design.
+
+Hours: 3  
+
+Action 2: Read all relevant documents
+
+To fully understand the task ahead I read through all the documents on blackboard associated with the group project. This allowed me to have a further 
+and more complete understanding of the assignment.
+
+Hours: 1
+
+Action 3: Meet with the group and set up repository
+
+We met on Sunday 6th February and discussed further what will need to be accomplished in this assignment and set up the group repository 
+
+Hours: 1
+
+Action 4: Write first blog
+
+I read SE.QA.08 to understand how to create my blog and then pushed it to the repository
+
+Hours: 0.5
+
+
+
+Total Hours 5.5
+
+
+

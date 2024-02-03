@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+
+<Pane fx:id="pane" prefHeight="700" prefWidth="1260.0" styleClass="rootPane" stylesheets="@main.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Group fx:id="buttonsGroup" />
+      <VBox layoutX="22.0" layoutY="25.0" prefHeight="200.0" prefWidth="100.0">
+         <children>
+            <ImageView fitHeight="658.0" fitWidth="483.0">
+               <image>
+                  <Image url="@textures/Scroll2.png" />
+               </image>
+            </ImageView>
+         </children>
+      </VBox>
+      <VBox layoutX="668.0" layoutY="25.0" prefHeight="658.0" prefWidth="517.0">
+         <children>
+            <ImageView fitHeight="658.0" fitWidth="472.0">
+               <image>
+                  <Image url="@textures/Scroll2.png" />
+               </image>
+            </ImageView>
+         </children>
+      </VBox>
+      <Rectangle fx:id="portIcon" height="70.0" layoutX="744.0" layoutY="155.0" width="70.0" />
+      <Rectangle fx:id="shipIcon" height="70.0" layoutX="971.0" layoutY="155.0" width="70.0" />
+            <HBox layoutX="205.0" layoutY="105.0" prefHeight="45.0" prefWidth="130.0">
+                <children>
+                    <Label prefHeight="42.0" prefWidth="142.0" styleClass="itemLabel" text="Safe Zone:" />
+                </children>
+            </HBox>
+      <HBox layoutX="794.0" layoutY="103.0" prefHeight="45.0" prefWidth="253.0">
+         <children>
+            <Label prefHeight="42.0" prefWidth="134.0" styleClass="itemLabel" text="Player &amp; Port:" />
+            <Label fx:id="playerName" styleClass="itemLabel" text="Label" />
+         </children>
+      </HBox>
+      <VBox alignment="TOP_CENTER" layoutX="807.0" layoutY="262.0" prefHeight="264.0" prefWidth="208.0">
+         <children>
+            <HBox alignment="CENTER_LEFT" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <ImageView fitHeight="33.0" fitWidth="61.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@textures/treasureCard1.png" />
+                     </image>
+                  </ImageView>
+                  <Label fx:id="portTreasure1SelectedValue" prefHeight="42.0" prefWidth="23.0" styleClass="itemLabel" text="0 /" />
+                  <Label fx:id="portTreasure1AvailableValue" styleClass="itemLabel" text="3" />
+                  <Slider fx:id="portTreasure1Slider" prefHeight="45.0" prefWidth="67.0" />
+               </children>
+            </HBox>
+            <HBox alignment="CENTER_LEFT" layoutX="10.0" layoutY="110.0" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <ImageView fitHeight="33.0" fitWidth="61.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@textures/treasureCard2.png" />
+                     </image>
+                  </ImageView>
+                  <Label fx:id="portTreasure2SelectedValue" styleClass="itemLabel" text="0 /" />
+                  <Label fx:id="portTreasure2AvailableValue" styleClass="itemLabel" text="3" />
+                  <Slider fx:id="portTreasure2Slider" prefHeight="45.0" prefWidth="67.0" />
+               </children>
+            </HBox>
+            <HBox alignment="CENTER_LEFT" layoutX="10.0" layoutY="150.0" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <ImageView fitHeight="33.0" fitWidth="61.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@textures/treasureCard3.png" />
+                     </image>
+                  </ImageView>
+                  <Label fx:id="portTreasure3SelectedValue" styleClass="itemLabel" text="0 /" />
+                  <Label fx:id="portTreasure3AvailableValue" styleClass="itemLabel" text="3" />
+                  <Slider fx:id="portTreasure3Slider" prefHeight="45.0" prefWidth="67.0" />
+               </children>
+            </HBox>
+            <HBox alignment="CENTER_LEFT" layoutX="10.0" layoutY="172.0" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <ImageView fitHeight="33.0" fitWidth="61.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@textures/treasureCard4.png" />
+                     </image>
+                  </ImageView>
+                  <Label fx:id="portTreasure4SelectedValue" styleClass="itemLabel" text="0 /" />
+                  <Label fx:id="portTreasure4AvailableValue" styleClass="itemLabel" text="3" />
+                  <Slider fx:id="portTreasure4Slider" prefHeight="45.0" prefWidth="67.0" />
+               </children>
+            </HBox>
+            <HBox alignment="CENTER_LEFT" layoutX="10.0" layoutY="179.0" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <ImageView fitHeight="33.0" fitWidth="61.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@textures/treasureCard5.png" />
+                     </image>
+                  </ImageView>
+                  <Label fx:id="portTreasure5SelectedValue" styleClass="itemLabel" text="0 /" />
+                  <Label fx:id="portTreasure5AvailableValue" styleClass="itemLabel" text="3" />
+                  <Slider fx:id="portTreasure5Slider" prefHeight="45.0" prefWidth="67.0" />
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+          <VBox alignment="TOP_CENTER" layoutX="199.0" layoutY="191.0" prefHeight="272.0" prefWidth="118.0">
+              <children>
+                  <HBox alignment="CENTER_LEFT" prefHeight="100.0" prefWidth="200.0">
+                      <children>
+                          <ImageView fitHeight="33.0" fitWidth="61.0" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@textures/treasureCard1.png" />
+                              </image>
+                          </ImageView>
+                  <Region prefHeight="200.0" prefWidth="200.0" />
+                          <Label fx:id="safeZoneValue1" prefHeight="42.0" prefWidth="4.0" styleClass="itemLabel" text="0" />
+                          <Label styleClass="itemLabel" text="x" />
+                      </children>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" layoutX="10.0" layoutY="110.0" prefHeight="100.0" prefWidth="200.0">
+                      <children>
+                          <ImageView fitHeight="33.0" fitWidth="61.0" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@textures/treasureCard2.png" />
+                              </image>
+                          </ImageView>
+                  <Region prefHeight="200.0" prefWidth="200.0" />
+                          <Label fx:id="safeZoneValue2" styleClass="itemLabel" text="0" />
+                          <Label styleClass="itemLabel" text="x" />
+                      </children>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" layoutX="10.0" layoutY="150.0" prefHeight="100.0" prefWidth="200.0">
+                      <children>
+                          <ImageView fitHeight="33.0" fitWidth="61.0" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@textures/treasureCard3.png" />
+                              </image>
+                          </ImageView>
+                  <Region prefHeight="200.0" prefWidth="200.0" />
+                          <Label fx:id="safeZoneValue3" styleClass="itemLabel" text="0" />
+                          <Label styleClass="itemLabel" text="x" />
+                      </children>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" layoutX="10.0" layoutY="172.0" prefHeight="100.0" prefWidth="200.0">
+                      <children>
+                          <ImageView fitHeight="33.0" fitWidth="61.0" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@textures/treasureCard4.png" />
+                              </image>
+                          </ImageView>
+                  <Region prefHeight="200.0" prefWidth="200.0" />
+                          <Label fx:id="safeZoneValue4" styleClass="itemLabel" text="0" />
+                          <Label styleClass="itemLabel" text="x" />
+                      </children>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" layoutX="10.0" layoutY="179.0" prefHeight="100.0" prefWidth="200.0">
+                      <children>
+                          <ImageView fitHeight="33.0" fitWidth="61.0" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@textures/treasureCard5.png" />
+                              </image>
+                          </ImageView>
+                  <Region prefHeight="200.0" prefWidth="200.0" />
+                          <Label fx:id="safeZoneValue5" styleClass="itemLabel" text="0" />
+                          <Label styleClass="itemLabel" text="x" />
+                      </children>
+                  </HBox>
+              </children>
+          </VBox>
+      <HBox layoutX="836.0" layoutY="529.0" prefHeight="52.0" prefWidth="180.0">
+         <children>
+            <Label prefHeight="42.0" prefWidth="150.0" styleClass="itemLabel" text="Selected Value:" />
+            <Label fx:id="selectedTreasureValue" styleClass="itemLabel" text="0" />
+         </children>
+      </HBox>
+      <VBox alignment="TOP_CENTER" layoutX="508.0" layoutY="188.0" prefHeight="305.0" prefWidth="150.0">
+         <children>
+            <TextArea fx:id="eventArea" editable="false" prefHeight="89.0" prefWidth="161.0" wrapText="true" />
+            <Button fx:id="tradeButton" mnemonicParsing="false" prefHeight="110.0" prefWidth="135.0" text="Move to Safe Zone" textAlignment="CENTER" wrapText="true" />
+            <Region prefHeight="7.0" prefWidth="115.0" />
+            <Region prefHeight="0.0" prefWidth="123.0" VBox.vgrow="ALWAYS" />
+               <Button fx:id="closeButton" mnemonicParsing="false" prefHeight="65.0" prefWidth="127.0" text="Close" />
+         </children>
+      </VBox>
+
+    </children>
+</Pane>

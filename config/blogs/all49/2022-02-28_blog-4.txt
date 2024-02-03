@@ -1,0 +1,16 @@
+Author: all49
+Week :4 (28/02/2022)
+
+Assigned Actions:
+===============
+
+Action 1:	1.3
+- Completed the test specification draft by this week. to be reviewed next week.
+- Hours: 2.5
+
+Action 2: 	1.5
+- Reviewed the UI Spec draft with QA and UI authors.
+- Hours: 2
+
+
+Total Hours: 4.5

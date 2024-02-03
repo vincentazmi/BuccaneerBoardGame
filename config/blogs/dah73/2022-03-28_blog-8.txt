@@ -1,0 +1,30 @@
+Author:  dah73
+Week: 8 (28/03/22)
+Assigned actions
+
+============
+Action 1: will attend the formal review meeting for the design spec.
+
+We looked at the desing spec doc and what needs to be changed in mapping from requierments to classes.
+
+Hours: 2
+
+Action 2: include save and load functions (class) in the design spec in the interface section. (Section 4).
+
+Hours:6
+
+Action 3: Go over Section 2.3 in the design doc.
+
+I corrected section 2.3 with add32
+
+Hours: 1
+
+
+Other project work 
+=================
+
+Updated the scroll
+
+Hours: 1 
+
+Total Hours: 10

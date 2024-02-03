@@ -1,0 +1,24 @@
+Author: mub11
+Week :1 (07/02/2022)
+
+Assigned Actions:
+===============
+
+Action 1:	2.1
+- Read project overview and briefly read project requirements specification
+- Hours: 21:50 - 22:35 (45mins)
+
+
+Action 2: 	2.2
+- Read blog section (2.4.4) of SE.QA.08
+- Hours: 22:55 - 23:00 (5mins)
+
+
+Action 3: 	4.4
+- Went through SE.QA.01, SE.QA.02, SE.QA.03 while taking note of what I think is important.
+- Hours: 23:05 - 01:00 (2hrs)
+
+
+Total Hours: 3 hrs
+
+

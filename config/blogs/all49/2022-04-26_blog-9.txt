@@ -1,0 +1,25 @@
+Author: all49
+Week :9 (26/04/2022)
+
+Assigned Actions:
+===============
+
+Action 1:
+- Go over design spec feedback and fix issues asap before Integration week. (depends when feedback is received).
+- Done in internal meeting.
+- Hours 2
+
+Action 1.a:
+- Have a meeting to discuss roles.
+- Internal meeting.
+
+Action 2:
+- all49 will include his work in the document history table for the test feedback.
+- Hours 1
+
+Action 3:
+- all49, alf56 will discuss to include more tests for the behaviours of the chance cards.
+- Hours ongoing
+
+
+Total Hours: 3

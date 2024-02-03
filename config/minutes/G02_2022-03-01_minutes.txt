@@ -1,0 +1,99 @@
+CS22120 Project: Group 02
+Meeting: Weekly Project Meeting
+Persons present: All project members, plus project manager
+Place and date of meeting: P5-0.62, Tuesday 1st March 2022
+
+Circulation list: All project members, plus project manager
+Author: Mukhriz Bin Mustafa
+Date of minutes: 1st March 2022
+Version: 1.0
+
+Matters arising:
+===========
+1 kha9, dah73 will start designing the main menu according to the pixel-y style.
+ACTION: kha9, dah73
+
+Done.
+
+
+2 xad1, dah73, mub11 will design the mud bay and anchor bay and the rest of the treasures.
+ACTION: xad1, dah73, mub11
+
+done.
+
+3 all49 will finish the test specification draft by this week. to be reviewed next week.
+ACTION: all49, alf56
+
+Done.
+
+
+4 mub11 will start config_refs table in the configs folder.
+ACTION: mub11
+
+Done.
+
+
+5 mub11, all49, dah73, kha9, alg68 will review the UI Spec draft.
+ACTION: mub11, all49, dah73, kha9, alg68
+
+Done.
+
+
+6 add32, via8, xad1 will start the coding for the main menu.
+ACTION: add32, via8, xad1
+
+To be continued.
+
+
+7 alg68 will start designing the battle screens, trade screens. (draft)
+ACTION: alg68
+
+done.
+
+
+8 mub11 will start writing the list of rules and the logos for each component for the help menu.
+ACTION: mub11
+
+Done.
+
+
+New Business:
+===============
+
+1 mub11 will book the room to hold the formal review meeting for the Test Spec.
+ACTION: mub11
+
+2 mub11, all49, alf56, via8, dah73 will attend the Test Spec Review meeting.
+ACTION: mub11, all49, alf56, via8, dah73
+
+3 via8 will continue working on the javaFX code for the main menu.
+ACTION: via8
+
+4 dah73 will design the main menu.
+ACTION: dah73
+
+5 add32, kha9 will work on the layout of the board. (CSS, FXML)
+ACTION: add32, kha9
+
+6 xad1 will continue working on the battle screen. JavaFX
+ACTION: xad1
+
+9 all49, alg68 will look into the JavaFx for the trading screen.
+ACTION: all49, alg68
+
+10 alf56 will look into transferring data between scenes. JavaFX
+ACTION: alf56
+
+9 We all will look into the design specification.
+ACTION: Everyone 
+
+
+AOB:
+=====
+
+NONE.
+
+
+Minutes by mub11, 1st March 2022
+
+

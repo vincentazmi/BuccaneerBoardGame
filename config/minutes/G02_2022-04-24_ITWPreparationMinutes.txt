@@ -1,0 +1,38 @@
+CS22120 Project: Group 02
+Meeting: ITW Preparation Meeting (& discussing DesignSpec Feedback)
+Persons present: All project members, plus project manager. Except alf56
+Place and date of meeting: Hugh Owen Library, Sunday 24/04/2022
+
+Circulation list: All project members, plus project manager
+Author: Mukhriz Bin Mustafa
+Date of minutes: 24th April 2022
+Version: 1.0
+
+New Business:
+===============
+
+1 Have more classes in significant classes in 2.2
+
+2 Have more UML diagrams in 3.1
+
+3 Add enums in section 4 (take out from uml and put in description instead)
+
+4 Make card class an interface to fix issue raised by Chris.
+
+5 Think about state charts if time allows.
+
+6 Decide Roles:
+- Coding team(add32, via8, alg68, xad1)
+- QA Team doing unit tests (all49, alf56)
+- QA Team checking code quality and documents (mub11)
+- Team to fix/refine the documents (dah73, kha9)
+- Team to produce maintenance manual and final report(X)
+
+7 Add the rest of the sequence diagrams.
+
+AOB:
+===
+NONE.
+
+
+Minutes by mub11, Sunday 24/04/2022

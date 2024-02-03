@@ -1,0 +1,13 @@
+Author:  add32
+Week: 2 (08/02/22)
+Assigned actions
+============
+Action 1:
+Research and programming interactive board in JavaFX.
+Hours: 9
+
+Action 2:
+Group meeting at 12 on Monday.
+Hours: 1
+
+Total Hours: 10

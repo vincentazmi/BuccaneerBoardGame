@@ -1,0 +1,26 @@
+Author: alg68
+Week :8 (28/03/2022)
+
+Assigned Actions:
+===============
+
+Action 1:
+- Continued coding the prototype of the trade screen. Implemented error condition: ship can only carry 2 treasures.
+- Cleaned up some of my code to make it more readable for other group members.
+Hours: 5
+
+
+
+
+Other project work
+=================
+- Continued previous weeks work (after 5pm blog deadline)
+Hours: 1
+
+- Set up a repo with an intellij project to start working on a prototype together and added files from the prototypes.
+Hours: 1
+
+
+
+Total Hours: 7
+

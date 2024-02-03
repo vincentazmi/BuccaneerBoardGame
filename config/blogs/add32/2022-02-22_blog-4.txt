@@ -1,0 +1,19 @@
+Author: add32
+Week: 4 (22/02/22)
+Assigned actions
+============
+Action 1:
+Rebuild the prototype to actual game model, separate graphic layer from logic layer, display info on the right side of the screen
+
+Hours: 8
+
+Action 2: 
+Meeting with tech part of team
+
+Hours: 1
+
+
+Other project work
+================
+
+Total hours: 9

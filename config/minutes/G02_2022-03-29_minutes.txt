@@ -1,0 +1,134 @@
+CS22120 Project: Group 02
+Meeting: Weekly Project Meeting
+Persons present: All project members, plus project manager. Except alg68
+Place and date of meeting: P5-0.62, Tuesday 29th March 2022
+
+Circulation list: All project members, plus project manager
+Author: Mukhriz Bin Mustafa
+Date of minutes: 29th March 2022
+Version: 1.0
+
+Matters arising:
+===============
+1 mub11 will prepare for design spec review meeting.
+ACTION: mub11
+
+done.
+
+2 everyone will attend the formal review meeting for the design spec. Decide date and time on discord.
+ACTION: Everyone
+
+done.
+
+3 add32 will present the game prototype classes in the tutorial if there's time to be spared.
+ACTION: add32
+
+done.
+
+4 add32, kha9 will work on the gamescreen. (CSS, FXML)
+add32 will continue implementing the battle mechanics, treasures and make UI interactive.
+kha9 work on the layout and UI.
+ACTION: add32, kha9
+
+to be continued by both.
+
+5 mub11 will re-release the UI doc and slides.
+ACTION:mub11
+
+done. 
+
+6 mub11 will put the design spec in the dev folder
+ACTION: mub11
+
+done.
+
+7 alg68 will finish the trading screen algorithms.
+ACTION: alg68
+
+???
+
+9 xad1 will continue with the battle screen, clean the code and split into two classes so not all are in the controller class.
+Action: xad1
+
+done.
+
+10 alf56 and all49 will fix issues raised from Chris's test spec feedback
+ACTION: alf56, all49
+
+done.
+
+11 dah73 will consult with add32 to find out what to work on. dah73 will pass task to mub11 to include in minutes.
+ACTION: dah73, add32, mub11
+
+done.
+
+12 via8, add32, xad1, alg68 will discuss on how to merge all 4 prototypes into 1.
+ACTION: via8, add32, xad1, alg68
+
+done.
+
+13 dah73 will research on JSON files with Java and try to make an example application.
+ACTION: dah73
+
+done.
+
+
+
+New Business (for the week after easter break)
+============
+
+1 add32, kha9 will work on the gamescreen. (CSS, FXML)
+add32 will continue implementing the battle mechanics, treasures and make UI interactive.
+kha9 will continue working on the UI layout using fxml.
+ACTION: add32, kha9
+
+2 Go over design spec feedback and fix issues asap before Integration week. (depends when feedback is received)
+ACTION: Everyone
+
+3 Go over the whole system, meaning all the classes in it to know how it is built and how they work together. (you might forget over easter!)
+ACTION: Everyone
+
+4 Discuss what needs to be done in order to deliver the final system.
+- What aspects of the system are we missing?
+    -loading and saving.
+    - chance cards.
+- Unit test.
+ACTION: Everyone
+
+5 Have a meeting to discuss roles.
+- Coding team
+- QA Team doing unit tests
+- QA Team checking code quality and documents.
+- Team to fix/refine the documents
+- Team to produce maintenance manual and final report
+ACTION: Everyone
+
+6 Add sections for the different classes instead of "======"
+ACTION: alf56
+
+7 Add more sequance diagrams for trading, battle, moving for example.
+ACTION: via8
+
+8 kha9 will add to the history table.
+- include all changed you've made in the descriptions
+ACTION:kha9
+
+9 dah73 will link the error conditions to the use cases in the EC table.
+ACTION: dah73 
+
+10 kha9 will have a look into putting everything into one CSS file.
+ACTION: kha9
+
+11 all49 will include his work in the document history table for the test feedback.
+ACTION: all49
+
+12 all49, alf56 will discuss to include more tests for the behaviours of the chance cards.
+ACTION: all49, alf56
+
+AOB:
+===
+1 Yss1 should ask Chris whether the sequance diagrams from the end-user perspective is okay?
+ACTION:yss1
+
+
+Minutes by mub11, Tuesday 29/03/2022

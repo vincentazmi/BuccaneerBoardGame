@@ -1,0 +1,22 @@
+Author: mub11
+Week: 6 (08/03/2022)
+
+Assigned Actions:
+=================
+
+Action 1: 
+- Attended internal meeting to discuss the design spec. Adrian went over his prototypes, explaining his 16 classes briefly.
+-Hours: 2
+
+Action 2:
+- Created issues on gitlab based on the feedback for the UI Specification.
+- Hours: 1
+
+
+AOB:
+===
+Action 1:
+- Went through the different classes in the code to better understand how it was designed. Did some research for the things i didn't understand.
+- Hours: 2 + 2
+
+Total Hours: 7

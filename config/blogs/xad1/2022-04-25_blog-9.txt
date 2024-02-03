@@ -1,0 +1,15 @@
+Author:  xad1
+Week: 9 (25/03/22)
+
+Assigned actions
+============
+Action 1: 3
+Looked over the code to make sure I understand how everything works.
+Hours: 2
+
+Action 2: 4,5
+Attended group meeting to discuss roles for integration week and what needs to be done to deliver the final system.
+Hours: 2
+
+
+Total Hours: 4

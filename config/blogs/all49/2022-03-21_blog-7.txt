@@ -1,0 +1,20 @@
+Author: all49
+Week :7 (21/03/2022)
+
+Assigned Actions:
+===============
+
+Action 1:
+- Finalise plan for the design spec by this week's meeting to start working on the draft.
+  [deliver week starting 28th - around 1.5 weeks to work on design spec]
+- Hours 3
+
+Action 2:
+- Contribute to Design Specification Doc
+- Hours 5
+
+Action 3:
+- Complete work the trading screen.
+- Hours 1
+
+Total Hours: 9

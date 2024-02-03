@@ -1,0 +1,20 @@
+Author: all49
+Week :2 (15/02/2022)
+
+Assigned Actions:
+===============
+
+Action 1:	1.1
+- Finish making a draft of the tests for FR4, FR5 and FR6. 
+- Hours: 1
+
+
+Action 2: 	1.4
+- I read SE.QA.RS-CS22120 and sketched some more tests for Functional Requirements 10, 11, 12
+- Hours: 2.5
+
+Action 3:	Mid Week Meeting
+- Meet team and decide the leader, deputy leader, QA manager and deputy QA manager.
+- Hours: 1
+
+Total Hours: 4.5

@@ -1,0 +1,17 @@
+Author: via8
+Week: 3 (21/02/22)
+
+Assigned actions
+============
+Action 1: Create prototype menu system in javafx. Able to switch scenes easily and control exiting the program.
+Hours: 2
+
+Action 2: Start UML diagram. Waiting for further review.
+Hours: 1
+
+Other project work
+================
+Learnt JavaFX through youtube tutorials.
+Hours: 3
+
+Total hours: 6

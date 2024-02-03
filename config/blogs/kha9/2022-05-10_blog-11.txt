@@ -1,0 +1,72 @@
+Author: kha9
+Week :10 (02/05/2022)
+
+Assigned Actions:
+=================
+
+Day 1:
+
+Action 1: Fix UI and updating gamescreen
+
+- Hours: 4
+
+Action 2: Combining CSS files so everything looks the same
+
+- Hours: 2
+
+Action 3: Start work on fixing UI doc
+
+- Hours: 2
+
+
+Day 2:
+
+
+Action 1: continue work on UI doc and change slides based on new use cases
+
+- Hours: 5
+
+Action 2: continued work on CSS and FXML for battlescreen
+
+- Hours: 3
+
+
+Day 3:
+
+Action 1: Fixing battle screen 
+
+- Hours: 2
+
+Action 2: Research and started coding JSON
+
+- Hours: 6
+
+
+Day 4:
+
+Action 1: Worked on end screen
+
+- Hours: 7
+
+Action 2: Fixed small ui errors
+
+- Hours: 1
+
+Day 5:
+
+Action 1: Tested game to find errors
+
+- Hours: 3
+
+Action 2: Worked on fixing small errors in the code and commenting methods
+
+- Hours: 4
+
+AOB:
+
+mapping requirements to classes and interface description on design doc
+
+- Hours: 8
+
+
+Total Hours: 47

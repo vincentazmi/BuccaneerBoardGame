@@ -1,0 +1,17 @@
+Author: via8
+Week: 10 (03/05/22)
+
+Assigned actions
+============
+Action 1: Figure out popup window for battle screens
+Hours: 1
+
+Other project work
+================
+Action 1: Internal meeting
+Hours: 1
+
+Action 2: Technical team meeting
+Hours: 2
+
+Total hours: 4

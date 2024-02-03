@@ -1,0 +1,24 @@
+Author: all49
+Week :1 (08/02/2022)
+
+Assigned Actions:
+===============
+
+Action 1:	2.1
+- Read project overview and briefly read project requirements specification
+- Hours: 0.5
+
+
+Action 2: 	2.2
+- Read blog section (2.4.4) of SE.QA.08
+- Hours: 0.16
+
+
+Action 3: 	4.2
+- Make a draft of the tests for FR4, FR5 and FR6. I read SE.QA.06 and sketched some tests that might be needed for the project
+to ensure it works and to output anything thats not meeting the requirements.
+
+- Hours: 2
+
+
+Total Hours: 2.66

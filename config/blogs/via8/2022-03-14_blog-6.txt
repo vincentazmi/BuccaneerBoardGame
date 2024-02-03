@@ -1,0 +1,17 @@
+Author: via8
+Week: 6 (14/03/22)
+
+Assigned actions
+============
+Action 1: Figure out how to transfer nicknames from nicknames.fxml to gamePane.fxml
+Hours: 3
+
+ACtion 2:
+Create icon screen & write up summarised rules for the game rules screen
+Hours: 3
+
+Other project work
+================
+Hours: 0
+
+Total hours: 6

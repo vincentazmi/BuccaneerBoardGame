@@ -1,0 +1,19 @@
+Author:  xad1
+Week: 8 (28/03/22)
+
+Assigned actions
+============
+Action 1: 2
+Attended formal review meeting.
+Hours: 2
+
+Action 2: 9
+Worked on battle screen. Seperated into seperate Battle and BattleController classes, cleaned up and improved things, added better comments and added code in case of a draw.
+Hours: 5
+
+
+Other project work
+================
+
+
+Total Hours: 7

@@ -1,0 +1,41 @@
+Design Spec
+===========
+- Must have UI doc and Slides complete in order to ensure no repeated errors.
+- Outline Structure:
+============================================================================
+	1. Intro
+	2. Decomposition Description
+		2.1 Programs in System
+		2.2 Significant classes in each program
+			2.2.1 "				  " 1
+			2.2.n "				  " n
+		2.3 Modules shared between programs
+		2.4 Mapping from requirements to classes
+	3. Dependency Description
+		3.1 Component Diagrams
+			3.1.1 Component Diagram for Program 1
+			3.1.2 Component Diagram for Program 2
+	4. Interface Description
+		4.1 Class 1 Interface Spec
+		4.2 Class 2 Interface Spec 2
+		4.n ...
+	5. Detailed Design
+		5.1 Sequence Diagrams
+		5.2 Significant Algorithms
+		5.3 Significant Data structures
+	6. References
+	Appendices
+=============================================================================
+[1] Intro (QA/PL)
+
+[2] Decomp Desc (mub11, dah73, kha9)
+
+[3] Dependency Desc (all49, xad1)
+
+[4] Interface Desc (alf56, alg68)
+
+[5] Detailed Des (add32, via8)
+
+[6] References
+
+**Assignments can change after a discussion**

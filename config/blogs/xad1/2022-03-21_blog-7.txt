@@ -1,0 +1,15 @@
+Author:  xad1
+Week: 7 (21/03/22)
+
+Assigned actions
+============
+Action 1: 6
+Got the battle screen to load cards now, added screen to choose what cards to take, removed screen to choose what cards to take, changed classes to fit better. 
+Hours: 10.5
+
+Other project work
+================
+Removed the boats from the arrows.
+Hours: 0.5
+
+Total Hours: 11

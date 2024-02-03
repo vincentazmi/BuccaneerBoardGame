@@ -1,0 +1,18 @@
+Author: alg68
+Week :4 (28/02/2022)
+
+Assigned Actions:
+===============
+
+Action 1: 	7
+- Started conceptualizing the battle and trade screen
+ Hours: 1
+
+
+Action 2:
+- Reworked flat and pirate island, designed treasure island
+ Hours: 2
+
+
+Total Hours: 3
+

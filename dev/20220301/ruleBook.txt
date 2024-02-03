@@ -1,0 +1,42 @@
+Information:
+
+Treasures:
+	- Diamonds: 5 points
+	- Rubies: 5 points
+	- Gold Bars: 4 points
+	- Pearls: 3 points
+	- Barrels of rum: 2 points
+	
+	*First player to to have 20 points worth of treasure at their home port is the winner.
+	
+Crew Cards:
+	- Show how many pirates a player has got.
+	- The number of pirates a player has got determines the folowing:
+		- How many squares a ship can move.
+			~ The sum of all crew cards on hand.
+		- The ship's combat value.
+			~ The difference between the Black Crew cards and the Red Crew cards.
+			
+How to Play:
+	- Each player gets 1 ship and 5 crew cards
+	- The rest of the treasures are placed on the Treasure Island.
+	- The rest of the crew cards are placed face down on the Pirate Island.
+	
+	- When it is your turn, you may do one of the following:
+	
+		- Sail to treasure island and draw a Chance card.
+			~ Follow the instruction on the Chance card.
+			
+		- Sail to another harbour to trade.
+			~ You may exchange treasures and crew cards on the harbour with the ones you have on your ship.
+			
+		- Attack another player's ship.
+			~ Sail to the same square as them and shout "Ready to Attack".
+			~ Both players must reveal their combat values.
+			~ The player with the higher combat value wins the battle.
+			~ Winner chooses either 2 Crew cards or all the treasure on the losing ship.
+	
+	- Safe Zones:
+		- Each player has a safe zone in their hometown.
+		- Safe Zones can only be used to store treasure once a player has 3 identical treasuers (for e.g. 3 gold bars).
+		- Treasures stores in safe zones cannot be traded or stolen.

@@ -1,0 +1,15 @@
+Author: kha9
+Week: 10 (03/05/22)
+
+Assigned actions
+============
+Action 1: Attempt to fix game screen UI
+Hours: 1
+
+Other project work
+================
+Action 1: Internal meeting
+Hours: 1
+
+
+Total hours: 2

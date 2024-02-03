@@ -1,0 +1,20 @@
+Author: alf56
+Week: 1 (07/02/22)
+Assigned actions
+============
+Action 1: Read project requirements and group intro documents
+Read the documents
+Hours: 1
+
+Action 2: Make the first blog and add it to the repository
+Checked SE.QA.08 and made the blog, then pushed it.
+Hours: 0
+
+Action 3: Make a draft of the tests for FR1, FR2 and FR3.
+I read SE.QA.06 and made a bunch of tests thinking about what needs to work and what shouldn't be allowed in the requirements.
+Hours: 1
+
+Action 4: Meet on Sunday 6 February 2022 at 12:00 to set up the repository.
+Hours: 1
+
+Total hours: 3

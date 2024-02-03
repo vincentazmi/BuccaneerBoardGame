@@ -1,0 +1,95 @@
+CS22120 Project: Group 02
+Meeting: Weekly Project Meeting
+Persons present: All project members, plus project manager
+Place and date of meeting: P5-0.62, Tuesday 15th March 2022
+
+Circulation list: All project members, plus project manager
+Author: Mukhriz Bin Mustafa
+Date of minutes: 15th March 2022
+Version: 1.0
+
+Matters arising:
+===============
+1 Everyone will attend an internal meeting to discuss the design spec and start planning for the different parts. Wed, 9th March 1500-1700
+ACTION: EVERYONE
+
+Done.
+
+
+2 mub11 will create issues on gitlab based on the feedback for the UI Specification.
+ACTION: mub11
+
+Done.
+
+
+3 via8, alf56 will continue working on the javaFX code for the main menu.
+ACTION: via8, alf56
+
+to be continued.
+
+
+4 dah73 will design the main menu.
+ACTION: dah73
+
+to be continued.
+
+
+5 add32, kha9 will work on the layout of the board. (CSS, FXML)
+ACTION: add32, kha9
+
+to be continued.
+
+
+6 xad1 will continue working on the battle screen. JavaFX
+ACTION: xad1
+
+to be continued.
+
+
+7 all49, alg68 will look into the JavaFx for the trading screen.
+ACTION: all49, alg68
+
+to be continued.
+
+
+New Business:
+=============
+
+1 Complete the issues related to UI Document (gitlab issues) because design spec draft is to be done by next week.
+dah73 address the issues created for the Use Case Document.
+ACTION: mub11, dah73, kha9
+
+2 Finalise plan for the design spec by this week's meeting to start working on the draft.
+[deliver week starting 28th - around 1.5 weeks to work on design spec]
+ACTION: all49
+
+3 via8, alf56 will continue working on the javaFX code for the main menu.
+via8 finish the rule screens (javaFX)
+alf56 will finish the animation for the main menu.
+ACTION: via8, alf56
+
+4 dah73 will design the main menu.
+ACTION: dah73
+
+5 add32, kha9 will work on the gamescreen. (CSS, FXML)
+add32 will implement the battle mechanics, treasures and make UI interactive.
+kha9 work on the layout and UI. (maybe continue alex's work)
+ACTION: add32, kha9
+
+6 xad1 will continue working on the battle screen. Loading the cards for the winning's box. JavaFX
+ACTION: xad1
+
+7 all49, alg68 will look into the JavaFx for the trading screen.
+ACTION: all49, alg68
+
+8 EVERYONE will attend the internal meeting this week.
+ACTION: Everyone.
+
+
+AOB:
+====
+
+NONE. 
+
+
+Minutes By mub11, Tuesday 15th March 2022

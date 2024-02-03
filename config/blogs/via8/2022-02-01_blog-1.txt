@@ -1,0 +1,19 @@
+Author: via8
+Week: 1 (07/02/22)
+Assigned actions
+============
+Action 1: Read the Project requirements & Group Intro documents
+Read both documents
+Hours: 0.5
+
+Action 2: Check how to add blog entries & See SE.QA.08.
+I was able to access and update the gitlab repo.
+Hours: 0.5
+
+Action 3: Investigate the options for saving Java objects to persistent storage.
+I have investigated that using serialization with ObjectOutputStream is best for our use case
+Hours 1
+
+Other project work
+================
+Total hours: 2

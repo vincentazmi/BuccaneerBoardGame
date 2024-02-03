@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Group?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<Pane fx:id="pane" prefHeight="700" prefWidth="1260.0" styleClass="rootPane" stylesheets="@main.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="uk.ac.aber.cs221.gp02.GameController">
+    <children>
+      <ImageView fitHeight="398.0" fitWidth="140.0" layoutX="715.0" layoutY="164.0" pickOnBounds="true">
+         <image>
+            <Image url="@textures/Scroll4.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="398.0" fitWidth="210.0" layoutX="882.0" layoutY="164.0" pickOnBounds="true">
+         <image>
+            <Image url="@textures/Scroll4.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="398.0" fitWidth="125.0" layoutX="1116.0" layoutY="164.0" pickOnBounds="true">
+         <image>
+            <Image url="@textures/Scroll4.png" />
+         </image>
+      </ImageView>
+        <Rectangle fill="aqua" height="700" width="700" />
+        <Group fx:id="buttonsGroup" />
+        <Label fx:id="battleLabel" layoutX="800" layoutY="100" text="BATTLE!" visible="false" />
+        <HBox layoutX="749.0" layoutY="577.0">
+            <Button fx:id="moveButton" layoutX="726.0" layoutY="579.0" mnemonicParsing="false" prefHeight="64.0" prefWidth="115.0" text="Move" />
+            <Button fx:id="rotateButton" layoutX="791.0" layoutY="592.0" mnemonicParsing="false" prefHeight="64.0" prefWidth="115.0" text="Rotate" />
+            <Button fx:id="endTurnButton" layoutX="866.0" layoutY="592.0" mnemonicParsing="false" prefHeight="64.0" prefWidth="115.0" text="End turn" />
+         <StackPane prefHeight="64.0" prefWidth="116.0">
+            <children>
+                  <Button fx:id="tradeButton" mnemonicParsing="false" prefHeight="64.0" prefWidth="115.0" text="Trade" />
+               <Button fx:id="safeZoneButton" mnemonicParsing="false" prefHeight="64.0" prefWidth="115.0" text="Safe Zone" />
+            </children>
+         </StackPane>
+        </HBox>
+
+        <HBox layoutX="722.0" layoutY="0.0" prefHeight="201.0" prefWidth="390.0">
+            <children>
+                <VBox prefHeight="161.0" prefWidth="378.0">
+                    <children>
+                        <Label fx:id="objectName" styleClass="objectName" text="Port of Cadiz" />
+                        <TextArea fx:id="objectDescription" editable="false" prefHeight="133.0" prefWidth="378.0" styleClass="objectDescription" text="Description" wrapText="true" />
+                    </children>
+                </VBox>
+            </children>
+        </HBox>
+        <HBox layoutX="726.0" layoutY="200" prefHeight="332.0" prefWidth="526.0">
+            <children>
+                <VBox prefHeight="298.0" prefWidth="76.0">
+                    <children>
+                        <HBox prefHeight="30.0" prefWidth="134.0">
+                            <children>
+                                <Label minWidth="-Infinity" prefHeight="42.0" prefWidth="124.0" styleClass="itemLabel" text="Port" />
+                            </children>
+                        </HBox>
+                        <HBox prefHeight="40.0" prefWidth="83.0">
+                            <children>
+                                <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@textures/treasure1.png" />
+                                    </image>
+                                </ImageView>
+                                <Label styleClass="itemLabel" text="x" />
+                                <Label fx:id="treasure1Label" styleClass="itemLabel" text="3" />
+                            </children>
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="110.0" prefHeight="40.0" prefWidth="230.0">
+                            <children>
+                                <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@textures/treasure2.png" />
+                                    </image>
+                                </ImageView>
+                                <Label styleClass="itemLabel" text="x" />
+                                <Label fx:id="treasure2Label" styleClass="itemLabel" text="3" />
+                            </children>
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="150.0" prefHeight="40.0" prefWidth="230.0">
+                            <children>
+                                <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@textures/treasure3.png" />
+                                    </image>
+                                </ImageView>
+                                <Label styleClass="itemLabel" text="x" />
+                                <Label fx:id="treasure3Label" styleClass="itemLabel" text="3" />
+                            </children>
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="172.0" prefHeight="40.0" prefWidth="230.0">
+                            <children>
+                                <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@textures/Pearl.png" />
+                                    </image>
+                                </ImageView>
+                                <Label styleClass="itemLabel" text="x" />
+                                <Label fx:id="treasure4Label" styleClass="itemLabel" text="3" />
+                            </children>
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="179.0" prefHeight="40.0" prefWidth="230.0">
+                            <children>
+                                <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@textures/treasure5.png" />
+                                    </image>
+                                </ImageView>
+                                <Label styleClass="itemLabel" text="x" />
+                                <Label fx:id="treasure5Label" styleClass="itemLabel" text="3" />
+                            </children>
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="200.0" prefHeight="40.0" prefWidth="230.0" />
+                    </children>
+                </VBox>
+                <VBox prefHeight="332.0" prefWidth="38.0" />
+                <VBox prefHeight="298.0" prefWidth="216.0">
+                    <children>
+                        <HBox prefHeight="95.0" prefWidth="118.0">
+                            <children>
+                                <Label fx:id="portLabel" prefHeight="42.0" prefWidth="256.0" styleClass="itemLabel" text="Label" />
+                            </children>
+                        </HBox>
+                        <HBox prefHeight="100.0" prefWidth="200.0">
+                            <children>
+                                <ImageView fitHeight="35" fitWidth="35" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@textures/PirateBlack.png" />
+                                    </image>
+                                </ImageView>
+                                <ImageView fitHeight="35" fitWidth="35" layoutX="28.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@textures/PirateBlack.png" />
+                                    </image>
+                                </ImageView>
+                                <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@textures/PirateBlack.png" />
+                                    </image>
+                                </ImageView>
+                                <Label styleClass="itemLabel" text="x" />
+                                <Label fx:id="card3BLabel" styleClass="itemLabel" text="3" />
+                            </children>
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="45.0" prefHeight="100.0" prefWidth="200.0">
+                            <children>
+                                <ImageView fitHeight="35" fitWidth="35" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@textures/PirateBlack.png" />
+                                    </image>
+                                </ImageView>
+                                <ImageView fitHeight="35" fitWidth="35" layoutX="28.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@textures/PirateBlack.png" />
+                                    </image>
+                                </ImageView>
+                                <Label styleClass="itemLabel" text="x" />
+                                <Label fx:id="card2BLabel" styleClass="itemLabel" text="0" />
+                            </children>
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="145.0" prefHeight="100.0" prefWidth="200.0">
+                            <children>
+                                <ImageView fitHeight="35" fitWidth="35" layoutX="28.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@textures/PirateBlack.png" />
+                                    </image>
+                                </ImageView>
+                                <Label styleClass="itemLabel" text="x" />
+                                <Label fx:id="card1BLabel" styleClass="itemLabel" text="0" />
+                            </children>
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="182.0" prefHeight="100.0" prefWidth="200.0">
+                            <children>
+                                <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@textures/PirateRed.png" />
+                                    </image>
+                                </ImageView>
+                                <ImageView fitHeight="35" fitWidth="35" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@textures/PirateRed.png" />
+                                    </image>
+                                </ImageView>
+                                <ImageView fitHeight="35" fitWidth="35" layoutX="28.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@textures/PirateRed.png" />
+                                    </image>
+                                </ImageView>
+                                <Label styleClass="itemLabel" text="x" />
+                                <Label fx:id="card3RLabel" styleClass="itemLabel" text="0" />
+                            </children>
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="199.0" prefHeight="100.0" prefWidth="200.0">
+                            <children>
+                                <ImageView fitHeight="35" fitWidth="35" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@textures/PirateRed.png" />
+                                    </image>
+                                </ImageView>
+                                <ImageView fitHeight="35" fitWidth="35" layoutX="28.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@textures/PirateRed.png" />
+                                    </image>
+                                </ImageView>
+                                <Label styleClass="itemLabel" text="x" />
+                                <Label fx:id="card2RLabel" styleClass="itemLabel" text="0" />
+                            </children>
+                        </HBox>
+                        <HBox layoutX="10.0" layoutY="209.0" prefHeight="100.0" prefWidth="200.0">
+                            <children>
+                                <ImageView fitHeight="35" fitWidth="35" layoutX="28.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                                    <image>
+                                        <Image url="@textures/PirateRed.png" />
+                                    </image>
+                                </ImageView>
+                                <Label styleClass="itemLabel" text="x" />
+                                <Label fx:id="card1RLabel" styleClass="itemLabel" text="0" />
+                            </children>
+                        </HBox>
+                    </children>
+                </VBox>
+                <VBox alignment="TOP_CENTER" prefHeight="332.0" prefWidth="117.0">
+                    <children>
+                        <Label fx:id="playerLabel" minWidth="-Infinity" prefHeight="42.0" prefWidth="118.0" styleClass="itemLabel" />
+                        <Rectangle fx:id="shipIcon" height="100" width="100" />
+                  <Region prefHeight="25.0" prefWidth="117.0" />
+                  <HBox alignment="CENTER" minHeight="-Infinity" prefHeight="20.0" prefWidth="117.0">
+                     <children>
+                        <Rectangle fx:id="currentTreasureIcon1" height="35.0" width="35.0" />
+                        <Region prefHeight="52.0" prefWidth="18.0" />
+                        <Rectangle fx:id="currentTreasureIcon2" height="35.0" width="35.0" />
+                     </children>
+                  </HBox>
+                  <StackPane prefHeight="86.0" prefWidth="117.0">
+                     <children>
+                        <ImageView fitHeight="44.0" fitWidth="44.0">
+                           <image>
+                              <Image url="@textures/moveTile.png" />
+                           </image>
+                        </ImageView>
+                                <Label fx:id="movesLabel" prefHeight="40.0" prefWidth="15.0" styleClass="moveLabel" text="6">
+                                    <font>
+                                        <Font size="18.0" />
+                                    </font>
+                           <StackPane.margin>
+                              <Insets bottom="20.0" />
+                           </StackPane.margin>
+                                </Label>
+                     </children>
+                  </StackPane>
+                        <HBox prefHeight="39.0" prefWidth="117.0" />
+                    </children>
+                </VBox>
+            </children>
+        </HBox>
+    </children>
+</Pane>

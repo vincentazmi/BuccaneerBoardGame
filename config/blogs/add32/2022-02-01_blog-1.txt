@@ -1,0 +1,22 @@
+Author:  add32
+Week: 1 (01/02/22)
+Assigned actions
+============
+Action 1:
+Read through the project requirements, group intro documents and Java QA document.
+Hours: 1
+
+Action 2:
+Checked to make sure I can add a blog entry and read through the Managing Blogs section of SE.QA.08.
+Hours: 0.5
+
+Action 3: 
+Watched some JavaFX tutorials to investigate its capabilities.
+Hours: 3
+
+Action 4:
+Programming some example screens in JavaFx.
+Hours: 3
+
+
+Total Hours: 8

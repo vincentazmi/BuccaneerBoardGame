@@ -1,0 +1,39 @@
+Author: mub11
+Week 10:  (02/05/2022)
+
+Assigned Actions:
+=================
+Action 1:
+- upload 24_ITWPreparationMinutes on gitlab.
+- Hours: 0
+
+Action 2: 
+- mub11 will update pdf versions of updated documents.
+- Hours : 10 mins
+
+Action 3:
+- Had internal meeting to discuss roles for ITW.
+- Hours: 1
+
+Action 4:
+- Decide on where to be working (basecamp for ITW)
+  - I suggested Rosser Lounge and then we confirmed.
+- Hours: 0
+
+Action 5:
+- Decide on time slot for acceptance testing. Fill in the form, outside LL-B62
+- Hours: 0
+
+Action 6: 
+- Ask Chris regarding the statecharts, sequence diagrams.
+- Hours: 5 mins
+
+AOB:
+===
+NONE.
+
+Total Hours: 1
+
+
+
+

@@ -1,0 +1,42 @@
+Author:  dah73
+Week: 3 (21/02/22)
+Assigned actions
+
+============
+Action 1: Complete a draft of the UI specification this week so that it can be formally reviewed by next week.
+
+I wrote the UI doc first draft, updating some minor details and added two new uses cases. 
+
+Hours: 1 
+
+Action 2: designing the ports, cliffs, bays and ships.
+
+I learnt how to use Gimp to designed five pixel art ships, with different colours and six pixel art ports, all different.
+
+Hours: 12 
+
+Action 3: third weeks blog.
+
+I wrote my two tasks.
+
+Hours: 0.5
+
+Action 4: Group meeting 
+
+We organised a discord meeting to discuss our work 
+
+Hours: 1
+
+Other project work 
+=================
+Started looking at designing another main menue, battle window and trade window.
+
+Hours: 0.5 
+
+
+Total Hours: 15
+
+
+
+
+

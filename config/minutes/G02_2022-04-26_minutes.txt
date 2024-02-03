@@ -1,0 +1,181 @@
+CS22120 Project: Group 02
+Meeting: Weekly Project Meeting
+Persons present: All project members, plus project manager, except xad1.
+Place and date of meeting: P5-0.62, Tuesday 26th April 2022
+
+Circulation list: All project members, plus project manager
+Author: Mukhriz Bin Mustafa
+Date of minutes: 26th April 2022
+Version: 1.0
+
+Matters arising:
+===============
+1 add32, kha9 will work on the gamescreen. (CSS, FXML)
+add32 will continue implementing the battle mechanics, treasures and make UI interactive.
+kha9 will continue working on the UI layout using fxml.
+ACTION: add32, kha9
+
+ongoing.
+
+
+2 Go over design spec feedback and fix issues asap before Integration week. (depends when feedback is received)
+ACTION: Everyone
+
+Fix issues according to feedback.
+
+
+3 Go over the whole system, meaning all the classes in it to know how it is built and how they work together.
+ACTION: Everyone
+
+Done.
+
+
+4 Discuss what needs to be done in order to deliver the final system.
+- What aspects of the system are we missing?
+    -loading and saving.
+    - chance cards.
+- Unit test.
+ACTION: Everyone
+
+Done. (add32's mind map)
+add to minutes.
+
+5 Have a meeting to discuss roles.
+- Coding team
+- QA Team doing unit tests
+- QA Team checking code quality and documents.
+- Team to fix/refine the documents
+- Team to produce maintenance manual and final report
+ACTION: Everyone
+
+Done.
+- Coding team(add32, via8, alg68, xad1)
+- QA Team doing unit tests (all49, alf56)
+    - read the QA document related to test.
+- QA Team checking code quality and documents (mub11)
+- Team to fix/refine the documents (dah73, kha9)
+- Team to produce maintenance manual and final report(TBC) 
+
+
+6 Add sections for the different classes instead of "======"
+ACTION: alf56
+
+done.
+
+
+7 Add more sequance diagrams for trading, battle, moving for example.
+ACTION: via8
+
+added.
+
+
+8 kha9 will add to the history table.
+- include all changed you've made in the descriptions
+ACTION:kha9
+
+done.
+
+
+9 dah73 will link the error conditions to the use cases in the EC table.
+ACTION: dah73
+
+done.
+
+
+10 kha9 will have a look into putting everything into one CSS file.
+ACTION: kha9
+
+to be continued.
+
+
+11 all49 will include his work in the document history table for the test feedback.
+ACTION: all49
+
+done.
+
+
+12 all49, alf56 will discuss to include more tests for the behaviours of the chance cards.
+ACTION: all49, alf56
+
+ongoing.
+
+13 1 Yss1 should ask Chris whether the sequance diagrams from the end-user perspective is okay.
+ACTION:yss1
+
+done.
+
+
+New Business:
+============
+
+1 add32, kha9 will work on the gamescreen. (CSS, FXML)
+add32 will continue implementing the battle mechanics, treasures and make UI interactive.
+ACTION: add32
+
+2 Fix Design Spec issues from feedback ASAP before Integration week.
+See G02_2022-04-24_ITWPreparationMinutes for more information.
+ACTION: everyone.
+
+3 upload 24_ITWPreparationMinutes on gitlab.
+ACTION: mub11
+
+4 mub11 will update pdf versions of updated documents.
+ACTION: mub11
+
+5 add32 will go through the mind map and list all the tasks to be done.
+ACTION: add32
+
+6 Have a meeting to discuss and define the specific roles for each team members for the ITW.
+ACTION: Everyone.
+
+7 have a test report, test table ready to fill in during manual system testing
+ACTION: alf56, all49
+
+8 Decide on where to be working (basecamp for ITW)
+- LL-C56
+- LL-B57 MP3.03 or others
+ACTION: Everyone.
+
+9 The testing team will have a seperate meeting to discuss what tasks need to be done.
+ACTION: alf56, all49
+
+10 will prepare the test report by this week, to be used for system testing next week.
+ACTION: QA test team (alf56, all49)
+
+11 Finish the 13 sequence diagrams left
+ACTION: alg68, dah73, mub11
+
+12 Have the system ready by wednesday, leaving thurs&Fri for testing. submit code by 1pm friday 06/05
+ACTION: everyone (or coding team)
+
+13 Decide on time slot for acceptance testing. Fill in the form, outside LL-B62
+ACTION: everyone
+
+14 add32, dah73 will go through code from last year to figure out how to use JSON files.
+ACTION: add32, dah73
+
+15 Go through alg68's trading screen code this week
+ACTION: alg68, add32
+
+16 figure out how to implement a pop-up window for the battle screens.
+ACTION: via8, xad1
+
+17 Ask Chris regarding the statecharts, sequence diagrams.
+ACTION: mub11
+
+18 Add issues for all the tasks to be done on gitlab.
+ACTION: mub11
+
+19 Decide where to have all the internal meetings.
+ACTION: everyone.
+
+
+AOB:
+===
+NONE.
+
+Minutes by mub11, Tuesday 26th April 2022
+
+
+
+

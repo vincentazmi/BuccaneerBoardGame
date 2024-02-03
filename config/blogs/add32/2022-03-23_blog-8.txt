@@ -1,0 +1,30 @@
+Author: add32
+Week: 7 (23/03/22)
+Assigned actions
+============
+Action 1:
+Development game scene (look at commit history)
+
+Hours: 4
+
+Action 2:
+Working on the Design Spec
+
+Hours: 1
+
+Action 3:
+Design Spec Review meeting:
+
+Hours: 2
+
+
+Other project work
+================
+Action 1:
+Individual meetings
+
+Hours: 2
+
+
+
+Total hours: 9

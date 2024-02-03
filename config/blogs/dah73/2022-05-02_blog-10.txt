@@ -1,0 +1,18 @@
+Author:  dah73
+Week: 10 (02/05/22)
+Assigned actions
+
+============
+Action 1: dah73 will link the error conditions to the use cases in the EC table.
+
+I added the UC to the EC table.
+
+Hours: 0.1
+
+Action 2: Internal meeting 
+
+Talked about desing spec, integration week roles and the program. 
+
+Hours: 2
+
+Total Hours: 2

@@ -1,0 +1,13 @@
+Author: alf56
+Week: 8 (21/03/22)
+Assigned actions
+============
+Action 1: Fix test spec with the feedback
+Hours: 1
+
+Other project work
+================
+Design spec meeting
+Hours: 2
+
+Total hours: 3

@@ -1,0 +1,19 @@
+Author: all49
+Week :6 (14/03/2022)
+
+Assigned Actions:
+===============
+
+Action 1:
+- Attended an internal meeting to discuss the design spec and start planning for the different parts.
+- Hours 2
+
+Action 2:
+- Made adjustments to test spec document following Yasir's review.
+- Hours 2
+
+Action 3:
+- Continued with JavaFx for the trading screen.
+- Hours 5
+
+Total Hours: 9

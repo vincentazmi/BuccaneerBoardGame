@@ -1,0 +1,24 @@
+Author: kha9
+Week :9 (26/04/2022)
+
+Assigned Actions:
+=================
+
+Action 1: Internal meeting.
+
+- Hours: 2
+
+Action 2: Finished design for Game screen 
+
+- Hours: 3
+
+Action 3: Fixed history table
+
+- Hours: 0.5
+
+Action 4: Research on CSS
+
+- Hours 2
+----------------------------------------------------
+
+Total Hours: 7.5

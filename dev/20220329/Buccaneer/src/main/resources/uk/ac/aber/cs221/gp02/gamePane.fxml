@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+
+<StackPane prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1"
+           fx:controller="uk.ac.aber.cs221.gp02.GamePaneController">
+    <children>
+        <GridPane>
+            <columnConstraints>
+                <ColumnConstraints hgrow="NEVER" minWidth="10.0"/>
+                <ColumnConstraints minWidth="10.0"/>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0"/>
+            </columnConstraints>
+            <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="NEVER"/>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="ALWAYS"/>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES"/>
+            </rowConstraints>
+            <children>
+                <Button fx:id="cogBtn" mnemonicParsing="false" onAction="#cogWheelAction" text="cog wheel"
+                        GridPane.halignment="LEFT" GridPane.valignment="TOP"/>
+                <ImageView fitHeight="720.0" fitWidth="720.0" pickOnBounds="true" preserveRatio="true"
+                           GridPane.columnIndex="1" GridPane.rowIndex="1">
+                    <image>
+                        <Image url="@/uk/ac/aber/cs221/gp02/images/ingameImage720x720.jpg"/>
+                    </image>
+                </ImageView>
+                <HBox prefHeight="100.0" prefWidth="200.0" spacing="20.0" GridPane.columnIndex="2">
+                    <children>
+                        <Label fx:id="player1Name" text=""/>
+                        <Label fx:id="player2Name" text=""/>
+                        <Label fx:id="player3Name" text=""/>
+                        <Label fx:id="player4Name" text=""/>
+                    </children>
+                </HBox>
+            </children>
+        </GridPane>
+
+        <fx:include fx:id="menu" disable="true" opacity="0" source="inGameOptions.fxml"/>
+
+    </children>
+</StackPane>

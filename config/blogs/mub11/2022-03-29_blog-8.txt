@@ -1,0 +1,39 @@
+Author: mub11
+Week: 8 (29/03/2022)
+
+Assigned Actions:
+=================
+Action 1: Prepared for the design spec review meeting.
+- Went through the set of questions for the review. Gathered the relevant documents for the review and distributed to other project members.
+- Hours: 0.5
+
+Action 2: Attended the Design Spec formal review.
+- As QA manager, took down the minutes for the review including assigning tasks to those who weren't assigned any in the weekly tutorial.
+- Hours: 2
+
+Action 3: Re-release UI doc and slides.
+- Went over the updated UI docs again and re-released the updated versions. Fixed some small forgotten issues.
+- Hours: 0.5
+
+Action 4: Put design spec in dev folder
+- Created a new folder for the week in Dev and put the draft of the design spec in it
+- Hours: 5 mins
+
+Action 5: Fixed names in design doc. Added everyone in alphabetical order.
+- Hours: 10 mins
+
+Action 6: Fixed table of content in design doc. Went through the doc to fix some font issues
+- Hours: 10 mins
+
+
+AOB:
+===
+Action 1: Created issues raised in Design Spec meeting
+- Hours: 0.5
+
+Action 2: Fixed Issue #1 from gitlab
+- Changed the config_refs .txt file to an .md file. I had to find out how .md files work because i've never used one before.
+- Hours: 0.5
+
+Total Hours: 5 so far
+

@@ -1,0 +1,24 @@
+Author: alg68
+Week :6 (14/03/2022)
+
+Assigned Actions:
+===============
+
+Action 1: 	7
+-  Worked on CSS Stylesheet for JavaFX. Wrote some CSS code for the trade screen and game in general to match the current design discussed in the UI-Spec.
+ Hours: 1.5
+
+Action 2: 7
+-  Designed cards showing the value of each treasure along with the treasure image for the trade screen
+ Hours: 0.5
+
+Action 3: 7
+-  Continued working on the trading system FXML code.
+ Hours: 2
+
+Action 4: Group Meeting
+-  Group Meeting discussing design and prototypes.
+ Hours: 2
+
+Total Hours: 6
+

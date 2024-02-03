@@ -1,0 +1,21 @@
+Author:  xad1
+Week: 1 (07/02/22)
+Assigned actions
+============
+Action 1: 2.1
+Read through the project requirements and group intro documents
+Hours: 0.5
+
+Action 2: 2.2
+Checked to make sure I can add a blog entry and read through the Managing Blogs section of SE.QA.08.
+Hours: 0.5
+
+Action 3: 4.3
+Investigated how states can be represented through the state design pattern and how it can help reduce the time we will spend programming while making the code cleaner.
+Hours: 2
+
+Action 4: 4.5
+Met with the group on Sunday 06/02/22 at 12:00 to make sure that everyone can access the gitlab and that it is set up correctly.
+Hours: 1
+
+Total Hours: 3

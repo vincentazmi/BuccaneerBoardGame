@@ -1,0 +1,38 @@
+Author:  dah73
+Week: 4 (28/02/22)
+Assigned actions
+
+============
+Action 1: will start designing the main menu according to the pixel-y style.
+
+I have sketched the layout of the main menue and planed animations.
+
+Hours: 1
+
+Action 2: will design the mud bay and anchor bay and the rest of the treasures.
+
+I have designed Mud bay and Anchor bay.
+
+Hours: 1
+
+Action 3: will review the UI Spec draft.
+
+I reviewed the UI spec doc and made changes.
+
+Hours: 3
+
+Action 4:Desing a scroll
+
+I designed my first draft of a scroll
+
+Hours: 2
+
+Other project work 
+=================
+
+None this week 
+
+Hours: 0 
+
+
+Total Hours: 7

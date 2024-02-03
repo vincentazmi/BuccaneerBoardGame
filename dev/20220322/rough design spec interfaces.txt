@@ -1,0 +1,176 @@
+Class 3: BoardElement
+    - Type: public
+    - Extends: nothing
+    - Public methods: 
+        - BoardElement(String name): The constructor.
+        - String toString(): Returns the name of the board element.
+        - String getName(): Also returns the name of the board element.
+
+Class 1: Bay
+    - Type: public
+    - Extends: BoardElement
+        - (Why)
+    - Public methods: 
+        - Bay(String name): The constructor.
+        
+Class 10: Island
+    - Type: public
+    - Extends: BoardElement
+        - (Why) 
+    - Public methods:
+        - Island(String name): The constructor.
+        
+Class 13: Port
+    - Type: public
+    - Extends: BoardElement
+        - (Why)
+    - Public methods:
+        - Port(String name, int value): The constructor.
+        - void addCard(CrewCard card): Adds a crew card to the port.
+        - void addTreasure(Treasure treasure): Adds treasure to the port.
+        - ArrayList<CrewCard> getCards(): Returns a list with all the crew cards.
+        - String getName(): Returns the port's name.
+        - String toString(): Returns a string with information about the port.
+
+Class 14: Tile
+    - Type: public
+    - Extends: nothing
+    - Public methods:
+        - Tile(boolean light, int x, int y): The constructor.
+        - boolean isLight(): Returns whether the tile is light or dark.
+        - boolean isPath(): Returns whether the tile is in the path of the current player.
+        - void setPath(): Sets the tile to be considered in the path of the current player.
+        - int getXCor(): Returns the x coordinate.
+        - int getYCor(): Returns the y coordinate.
+        - BoardElement getElement(): returns the BoardElement the tile belongs to.
+        - void setElement(BoardElement element): Sets the BoardElement the tile belongs to.
+        - String toString(): Returns a string with the x and y coordinates.
+
+==========
+
+Class 5: Card
+    - Type: public
+    - Extends: nothing
+    - Public methods: nothing. This is just a superclass for ChanceCard and CrewCard
+
+Class 6: ChanceCard
+    - Type: public
+    - Extends: Card
+        - The class deck uses a list of Card to define methods for CrewCard and ChacneCard
+    - Public methods:
+        - ChanceCard(int id): The constructor for unknown description.
+        - ChanceCard(int id, String description): The constructor for a specified description.
+        - String getDescription(): Returns the description of the card.
+        - void setDescription(String description): Sets the description of the card.
+        - String toString(): Returns a string with the id and description of the card.
+        
+Class 7: CrewCard
+    - Type: public
+    - Extends: Card
+        - The class deck uses a list of Card to define methods for CrewCard and ChacneCard
+    - Public methods:
+        - CrewCard(): Constructor for default color (black) and value (1)
+        - CrewCard(int color, int value): The constructor. for the color parameter 0 is black and 1 is red.
+        - int getColor(): Returns the color.
+        - void setColor(int color): Sets the color of the card. 0 for black, 1 for red.
+        - int getValue(): Returns the value of the card.
+        - void setValue(int value): Sets the value of the card.
+        - String toString(): Returns a string with the color and value of the card.
+        - int compareTo(CrewCard o): Compares two cards by value so they can be sorted.
+        - boolean equals(Object o): Compares the value and color of the cards for equality.
+
+Class 8: Deck
+    - Type: public
+    - Extends: nothing
+    - Public methods:
+        - void shuffleDeck(): shuffles the deck of cards.
+        - List<Card> getCards(): Returns the deck of cards.
+        - void addCard(Card card): Adds a card to the deck.
+        - Card getCard(): Gets the first card from the deck and removes it from the deck.
+        - String toString(): Returns a string with information for all the cards.
+        
+==========
+        
+Class 2: Board
+    - Type: public
+    - Extends: nothing
+    - Public methods: 
+        - Board(): The constructor. Makes a 20x20 tiled board.
+        - void draw(): Refreshes the rendering of the board.
+        - Group getBoardGroup(): (Something about javaFX, not sure)
+        - Tile getTile(int x, int y): Returns the tile on the coordinate (x, y)
+        - void cleanTiles(): (Not sure, maybe setPath is related to the different colors in tiles)
+        - void markReachable(): (Seems to mark reachable tiles)
+        - Port[] getPorts(): Returns an array with all the ports
+
+==========
+
+Class 9: Game
+    - Type: public
+    - Extends: nothing
+    - Public methods:
+        - static void initialize(): Initializes the game.
+        - static void changeState(State newState): Controls the state of the game.
+        - static void onMousePress(Tile tile): Manages the clicks on the board.
+        - static Player getCurrentPlayer(): Returns the current player.
+        - static State getCurrentState(): Returns the current state.
+        - static ArrayList<Player> getPlayers(): Returns a list with the players.
+        - static void setNicknames(String[] nicknames): Sets the nicknames for the players.
+
+==========
+
+Class 12: Player
+    - Type: public
+    - Extends: nothing
+    - Public methods:
+        - Player(int x, int y, String name, int color): The constructor.
+        - int getXCor(): Returns the x coordinate
+        - void setXCor(int xCor): Sets the x coordinate
+        - int getYCor(): Returns the y coordinate
+        - void setYCor(int yCor): Sets the y coordinate
+        - String getName(): Returns the name of the player
+        - int getColor(): Returns the color of the ship
+        - int getSteps(): Returns the number of steps the player can move.
+        - Direction getDirection(): Returns the direction of the ship.
+        - void setDirection(DIrection dir): Sets the direction of the ship.
+        - void setHomePort(Port port): Sets the player's home port.
+        - Port getHomePort(): Returns the home port.
+        - int[] cardsDescription(): Returns an array counting how many crew cards the player has for each color and value.
+        - void addCard(CrewCard card): Gives the player a crew card.
+        - Card getCard(): Gets the first card from the player and removes it.
+        - ArrayList<CrewCard> getCards(): Returns a list of all the crew cards.
+        - String toString(): Returns a string with the name of the player.
+
+==========
+                
+Class 11: Item
+    - Type: public
+    - Extends: nothing
+    - Public methods: nothing (why)
+        
+Class 15: Treasure
+    - Type: public
+    - Extends: Item
+        - (Why)
+    - Public methods:
+        - Treasure(String name, TreasureType type): The constructor.
+        - TreasureType getType(): Returns the type of the treasure.
+        - String getName(): Returns the name of the treasure.
+        - int getValue(): Returns the value of the treasure.
+        - int compareTo(Treasure o): Compares two treasures so they can be sorted.
+        - String toString(): Returns a string with info about the treasure.
+        
+==========
+        
+Class 4: BuccaneerApplication
+    - Type: public
+    - Extends: Application
+        - (Why)
+    - Public methods:
+        - void start(Stage stage): Starts the javaFX stuff
+        - static void main(String[] args) Main method that starts the entire application.
+
+
+They are separated by groups of classes that inherit from the same one or are very related.
+        
+Also this is based only on what is already in the prototype but it probably shouldn't be

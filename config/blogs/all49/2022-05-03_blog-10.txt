@@ -1,0 +1,23 @@
+Author: all49
+Week : (03/05/2022)
+
+Assigned Actions:
+===============
+
+Action 1:
+- Fix Design Spec issues from feedback ASAP before Integration week.
+See G02_2022-04-24_ITWPreparationMinutes for more information.
+ACTION: everyone.
+- Hours 1
+
+Action 2:
+- Have a meeting to discuss and define the specific roles for each team members for the ITW.
+ACTION: Everyone.
+- Hours 1
+
+Action 3:
+- have a test report, test table ready to fill in during manual system testing
+ACTION: alf56, all49
+- Hours 2
+
+Total Hours: 4

@@ -1,0 +1,18 @@
+Author:  xad1
+Week: 6 (14/03/22)
+
+Assigned actions
+============
+Action 1: 6
+Continued work on the battle screen. Now loads the losing player's treasures in a winnings box.
+Hours: 5
+
+Other project work
+================
+Created new versions of all the ship sprites with arrows for each of the 8 directions.
+Hours: 2
+
+Had a group meeting in the library looking over the code and talking about some functional requirements.
+Hours: 2
+
+Total Hours: 9

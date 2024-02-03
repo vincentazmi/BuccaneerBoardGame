@@ -1,0 +1,54 @@
+Author:  dah73
+Week: 11 (10/05/22)
+
+Integration Week
+=============
+Day 1:
+
+Correcting the UI doc, made changes to the tipical users and uses cases 
+
+Hours: 8
+
+Day 2:
+
+Carried on with the UI doc and the error conditions 
+
+Hours: 6
+
+Day 3: 
+
+Helped mub11 to fix the test specification document 
+
+Hours: 6 
+
+Day 4:
+
+I designed the end screen and stated the json save
+
+Hours: 8
+
+Day 5:
+
+helped finish json save and load
+Helped with updating domcuments as changes were being made in the code 
+
+Hours: 6
+
+
+
+AOB:
+===
+Document day 1:
+
+Helped with Enn-of-Project Report.
+
+Hours: 2
+
+Document Day 2:
+
+Helped with the maintenance manual
+
+Hours: 5
+
+
+Total Hours: 41

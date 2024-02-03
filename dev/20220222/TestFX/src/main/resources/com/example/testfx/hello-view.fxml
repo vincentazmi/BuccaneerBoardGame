@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" spacing="20.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.testfx.HelloController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <HBox prefHeight="100.0" prefWidth="200.0">
+      <children>
+         <VBox prefHeight="200.0" prefWidth="100.0">
+            <children>
+               <Label fx:id="player1Text" alignment="CENTER" prefHeight="18.0" prefWidth="106.0" text="Player 1:" textAlignment="CENTER" />
+               <TextField fx:id="nick1" />
+               <Label fx:id="port1" alignment="CENTER" prefHeight="18.0" prefWidth="99.0" />
+            </children>
+         </VBox>
+         <VBox layoutX="10.0" layoutY="10.0" prefHeight="200.0" prefWidth="100.0">
+            <children>
+               <Label fx:id="player2Text" alignment="CENTER" prefHeight="18.0" prefWidth="106.0" text="Player 2:" textAlignment="CENTER" />
+                <TextField fx:id="nick2" />
+               <Label fx:id="port2" alignment="CENTER" prefHeight="18.0" prefWidth="99.0" />
+            </children>
+         </VBox>
+      </children>
+   </HBox>
+   <HBox prefHeight="100.0" prefWidth="200.0">
+      <children>
+         <VBox prefHeight="200.0" prefWidth="100.0">
+            <children>
+               <Label fx:id="player3Text" alignment="CENTER" prefHeight="18.0" prefWidth="106.0" text="Player 3:" textAlignment="CENTER" />
+                <TextField fx:id="nick3" />
+               <Label fx:id="port3" alignment="CENTER" prefHeight="18.0" prefWidth="99.0" />
+            </children>
+         </VBox>
+         <VBox layoutX="10.0" layoutY="10.0" prefHeight="200.0" prefWidth="100.0">
+            <children>
+               <Label fx:id="player4Text" alignment="CENTER" prefHeight="18.0" prefWidth="106.0" text="Player 4:" textAlignment="CENTER" />
+                <TextField fx:id="nick4" />
+               <Label fx:id="port4" alignment="CENTER" prefHeight="18.0" prefWidth="99.0" />
+            </children>
+         </VBox>
+      </children>
+   </HBox>
+   <Label fx:id="errorMessage" text="Error" visible="false" />
+   <Button fx:id="submitButton" mnemonicParsing="false" onAction="#submit" text="Submit" />
+</VBox>

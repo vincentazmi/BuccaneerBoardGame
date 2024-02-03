@@ -1,0 +1,11 @@
+Author: alf56
+Week: 11 (3/05/22)
+Assigned actions
+============
+Integration week Tuesday - Friday. Making unit tests, some CSS and fxml, testing.
+Hours: 20
+
+Other project work
+================
+
+Total hours: 20

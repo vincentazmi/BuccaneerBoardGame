@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Rectangle?>
+
+<StackPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="180.0"
+           prefWidth="120.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1"
+           fx:controller="com.example.buccaneer.GamePaneController">
+    <children>
+        <Pane prefHeight="180.0" prefWidth="200.0">
+            <children>
+                <Rectangle fill="#848586" height="180.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0"
+                           width="120.0"/>
+                <VBox alignment="CENTER" prefHeight="180.0" prefWidth="120.0" spacing="15.0">
+                    <children>
+                        <Button mnemonicParsing="false" onAction="#resumeAction" text="Resume"/>
+                        <Button mnemonicParsing="false" onAction="#exitAction" text="Exit"/>
+                    </children>
+                </VBox>
+            </children>
+        </Pane>
+    </children>
+</StackPane>

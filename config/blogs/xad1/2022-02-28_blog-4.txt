@@ -1,0 +1,14 @@
+Author:  xad1
+Week: 4 (28/02/22)
+
+Assigned actions
+============
+Action 1: 2
+Designed a pearl
+Hours: 0.5
+
+Action 2: 6
+Started on the battle screen prototype in JavaFX.
+Hours: 1.5
+
+Total Hours: 2

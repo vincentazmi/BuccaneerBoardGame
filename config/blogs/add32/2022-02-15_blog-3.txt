@@ -1,0 +1,23 @@
+Author: add32
+Week: 3 (15/02/22)
+Assigned actions
+============
+Action 1:
+Research, improve ship movement, re-organize code, add some comments
+
+Hours: 8
+
+Action 2: 
+Meeting on saturday
+
+Hours: 1
+
+Action 3:
+Design assets for the game
+
+Hours: 2
+
+Other project work
+================
+
+Total hours: 11

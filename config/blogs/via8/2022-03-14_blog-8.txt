@@ -1,0 +1,17 @@
+Author: via8
+Week: 8 (28/03/22)
+
+Assigned actions
+============
+Action 1: Nicknames validation
+Hours: 2
+
+Action 2: Added rules screen to the prototype
+Hours: 1
+
+Other project work
+================
+Action 1: Design Specification Meeting
+Hours: 2
+
+Total hours: 5

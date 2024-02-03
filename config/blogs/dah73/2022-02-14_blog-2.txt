@@ -1,0 +1,38 @@
+Author:  dah73
+Week: 2 (14/02/22)
+Assigned actions
+
+============
+Action 1: will identify typical users, use cases and 
+use case descriptions and to improve screens.
+
+I added three more use cases and added seven error conditions.
+
+Hours: 1
+
+Action 2: Update the First weeks blog
+I changed my Action titles and wrote the actions taken.
+
+Hours: 0.5
+
+Action 3: Group meeting at 12 on Monday.
+
+I talked with group about what roles we would assing to each 
+group memeber and what where are next steps. 
+
+Hours: 1
+
+Action 4: Upload Second week blog.
+
+I uploaded my seconds week blog. 
+
+Hours: 0.5
+
+Other project work 
+=================
+Started with the error conditions
+
+Hours: 0.5 
+
+
+Total Hours: 3

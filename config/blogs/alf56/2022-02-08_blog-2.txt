@@ -1,0 +1,25 @@
+Author: alf56
+Week: 2 (14/02/22)
+Assigned actions
+============
+Action 1: Make a draft of the tests for FR7, FR8, FR9
+
+Hours: 1
+
+Action 2: Update first week blog by following specifications.
+Checked SE.QA.08 and updated the blog.
+Hours: 0
+
+Action 3: Update draft of FR1, FR2, FR3 according to SE.QA.06 and the template word document.
+Used the template document to present the tests.
+Hours: 0.5
+
+Action 4: Meet and decide the leader, deputy leader, QA Manager and Deputy QA Manager.
+Hours: 1
+
+Other project work
+================
+Improved the tests for FR1, FR2, FR3 by making the input more specific and added an extra test.
+Hours: 0.5
+
+Total hours: 3

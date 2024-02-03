@@ -1,0 +1,61 @@
+Author: mub11
+Week 11 : ITW (07/05/2022)
+
+Assigned Actions:
+=================
+
+Monday:
+- Did a mini review to check all things QA related for UI Spec.
+  - Fixed Use Cases to cover all the Functional requirements.
+  - Went over all chance cards. worked with dah73 and grouped them into major categories.
+  - Fixed formatting issues of the document. 
+-Hours: 6
+
+
+Tuesday:
+- Went over Error conditions 
+- Went through what we had for the UI Slides to ensure that all the updated use cases are covered.
+  - Design 4 UI screens for the new key chance cards categories use cases.
+- Hours: 6
+
+
+Wednesday:
+- Went through testspec feedback
+  - Fixed test ref issues
+  - Layout was broken (and so, table of contents)
+  - Hours: 6
+
+
+Thursday:
+- Made the FXML file for the EndScreen with SceneBuilder. Had to revise on using scenebuilder as i had forgotten how to use it.
+- Got help from xad1 to start writing the controller class.
+- Hours: 6
+
+
+Friday:
+- Discussed with other project members about
+- updating design spec document as the code has been updated drastically, with many more classes and features implemented.
+- added more significant classes as requested in feedback.
+- Hours: 6
+
+
+
+AOB:
+===
+Document Day 1:
+- Helped Project leader start the End-of-Project Report.
+  - Structured the report following the template.
+  - Helped with the Introduction.
+  - Helped with the Management Summary.
+  - Helped with project and team evaluation.
+- Hours: 6
+
+Document Day 2:
+- Started the Maintenance Manual.
+  - Structured it following the template.
+  - Started the intro section.
+  - Noted down the items to include and assigned team members to do the sections.
+- Helped create component diagram
+- Hours: 6
+
+Total Hours: 42

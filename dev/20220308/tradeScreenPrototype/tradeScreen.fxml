@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Group?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<Pane fx:id="pane" prefHeight="700" prefWidth="1260.0" styleClass="rootPane" stylesheets="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/game.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="uk.ac.aber.cs221.gp02.Game">
+    <children>
+        <Group fx:id="buttonsGroup" />
+      <VBox layoutX="22.0" layoutY="25.0" prefHeight="200.0" prefWidth="100.0">
+         <children>
+            <ImageView fitHeight="658.0" fitWidth="483.0">
+               <image>
+                  <Image url="@Trade%20Screen/textures/Scroll1.png" />
+               </image>
+            </ImageView>
+         </children>
+      </VBox>
+            <HBox layoutX="205.0" layoutY="105.0" prefHeight="85.0" prefWidth="92.0">
+                <children>
+                    <Label styleClass="itemLabel" text="Port: " />
+                    <Label styleClass="itemLabel" text="Label" />
+                </children>
+            </HBox>
+          <VBox layoutX="275.0" layoutY="262.0" prefHeight="210.0" prefWidth="195.0">
+              <children>
+                  <HBox prefHeight="40.0" prefWidth="83.0">
+                      <children>
+                          <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/treasure1.png" />
+                              </image>
+                          </ImageView>
+                          <Label styleClass="itemLabel" text="x" />
+                          <Label styleClass="itemLabel" text="3" />
+                      </children>
+                  </HBox>
+                  <HBox layoutX="10.0" layoutY="110.0" prefHeight="40.0" prefWidth="230.0">
+                      <children>
+                          <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/treasure2.png" />
+                              </image>
+                          </ImageView>
+                          <Label styleClass="itemLabel" text="x" />
+                          <Label styleClass="itemLabel" text="3" />
+                      </children>
+                  </HBox>
+                  <HBox layoutX="10.0" layoutY="150.0" prefHeight="40.0" prefWidth="230.0">
+                      <children>
+                          <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/treasure3.png" />
+                              </image>
+                          </ImageView>
+                          <Label styleClass="itemLabel" text="x" />
+                          <Label styleClass="itemLabel" text="3" />
+                      </children>
+                  </HBox>
+                  <HBox layoutX="10.0" layoutY="172.0" prefHeight="40.0" prefWidth="230.0">
+                      <children>
+                          <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/treasure4.png" />
+                              </image>
+                          </ImageView>
+                          <Label styleClass="itemLabel" text="x" />
+                          <Label styleClass="itemLabel" text="3" />
+                      </children>
+                  </HBox>
+                  <HBox layoutX="10.0" layoutY="179.0" prefHeight="40.0" prefWidth="230.0">
+                      <children>
+                          <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/treasure5.png" />
+                              </image>
+                          </ImageView>
+                          <Label styleClass="itemLabel" text="x" />
+                          <Label styleClass="itemLabel" text="3" />
+                      </children>
+                  </HBox>
+                  <HBox layoutX="10.0" layoutY="200.0" prefHeight="40.0" prefWidth="230.0">
+                      <children>
+                          <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/Ship2.png" />
+                              </image>
+                          </ImageView>
+                          <Label styleClass="itemLabel" text="x" />
+                          <Label styleClass="itemLabel" text="6" />
+                      </children>
+                  </HBox>
+              </children>
+          </VBox>
+          <VBox layoutX="98.0" layoutY="265.0" prefHeight="210.0" prefWidth="92.0">
+              <children>
+                  <HBox prefHeight="100.0" prefWidth="200.0">
+                      <children>
+                          <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateBlack.png" />
+                              </image>
+                          </ImageView>
+                          <ImageView fitHeight="35" fitWidth="35" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateBlack.png" />
+                              </image>
+                          </ImageView>
+                          <ImageView fitHeight="35" fitWidth="35" layoutX="28.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateBlack.png" />
+                              </image>
+                          </ImageView>
+                          <Label styleClass="itemLabel" text="x" />
+                          <Label styleClass="itemLabel" text="0" />
+                      </children>
+                  </HBox>
+                  <HBox layoutX="10.0" layoutY="45.0" prefHeight="100.0" prefWidth="200.0">
+                      <children>
+                          <ImageView fitHeight="35" fitWidth="35" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateBlack.png" />
+                              </image>
+                          </ImageView>
+                          <ImageView fitHeight="35" fitWidth="35" layoutX="28.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateBlack.png" />
+                              </image>
+                          </ImageView>
+                          <Label styleClass="itemLabel" text="x" />
+                          <Label styleClass="itemLabel" text="0" />
+                      </children>
+                  </HBox>
+                  <HBox layoutX="10.0" layoutY="145.0" prefHeight="100.0" prefWidth="200.0">
+                      <children>
+                          <ImageView fitHeight="35" fitWidth="35" layoutX="28.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateBlack.png" />
+                              </image>
+                          </ImageView>
+                          <Label styleClass="itemLabel" text="x" />
+                          <Label styleClass="itemLabel" text="0" />
+                      </children>
+                  </HBox>
+                  <HBox layoutX="10.0" layoutY="182.0" prefHeight="100.0" prefWidth="200.0">
+                      <children>
+                          <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateRed.png" />
+                              </image>
+                          </ImageView>
+                          <ImageView fitHeight="35" fitWidth="35" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateRed.png" />
+                              </image>
+                          </ImageView>
+                          <ImageView fitHeight="35" fitWidth="35" layoutX="28.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateRed.png" />
+                              </image>
+                          </ImageView>
+                          <Label styleClass="itemLabel" text="x" />
+                          <Label styleClass="itemLabel" text="0" />
+                      </children>
+                  </HBox>
+                  <HBox layoutX="10.0" layoutY="199.0" prefHeight="100.0" prefWidth="200.0">
+                      <children>
+                          <ImageView fitHeight="35" fitWidth="35" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateRed.png" />
+                              </image>
+                          </ImageView>
+                          <ImageView fitHeight="35" fitWidth="35" layoutX="28.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateRed.png" />
+                              </image>
+                          </ImageView>
+                          <Label styleClass="itemLabel" text="x" />
+                          <Label styleClass="itemLabel" text="0" />
+                      </children>
+                  </HBox>
+                  <HBox layoutX="10.0" layoutY="209.0" prefHeight="100.0" prefWidth="200.0">
+                      <children>
+                          <ImageView fitHeight="35" fitWidth="35" layoutX="28.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                              <image>
+                                  <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateRed.png" />
+                              </image>
+                          </ImageView>
+                          <Label styleClass="itemLabel" text="x" />
+                          <Label styleClass="itemLabel" text="0" />
+                      </children>
+                  </HBox>
+              </children>
+          </VBox>
+      <HBox layoutX="533.0" layoutY="321.0" prefHeight="59.0" prefWidth="83.0" />
+        <HBox layoutX="523.0" layoutY="238.0" prefHeight="59.0" prefWidth="97.0" />
+        <Button layoutX="1146.0" layoutY="13.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="100.0" text="Rules" />
+        <HBox layoutX="726.0" layoutY="151.0" prefHeight="255.0" prefWidth="302.0" />
+      <VBox alignment="CENTER_LEFT" layoutX="868.0" layoutY="569.0" prefHeight="678.0" prefWidth="546.0">
+         <children>
+            <ImageView fitHeight="631.0" fitWidth="525.0" visible="false">
+               <image>
+                  <Image url="@Trade%20Screen/textures/Scroll1.png" />
+               </image>
+            </ImageView>
+         </children>
+      </VBox>
+      <VBox layoutX="713.0" layoutY="23.0" prefHeight="658.0" prefWidth="453.0">
+         <children>
+            <ImageView fitHeight="658.0" fitWidth="423.0">
+               <image>
+                  <Image url="@Trade%20Screen/textures/Scroll1.png" />
+               </image>
+            </ImageView>
+         </children>
+      </VBox>
+      <HBox layoutX="896.0" layoutY="103.0" prefHeight="85.0" prefWidth="92.0">
+         <children>
+            <Label styleClass="itemLabel" text="Player:" />
+            <Label styleClass="itemLabel" text="Label" />
+         </children>
+      </HBox>
+      <VBox layoutX="966.0" layoutY="260.0" prefHeight="210.0" prefWidth="195.0">
+         <children>
+            <HBox prefHeight="40.0" prefWidth="83.0">
+               <children>
+                  <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/treasure1.png" />
+                     </image>
+                  </ImageView>
+                  <Label styleClass="itemLabel" text="x" />
+                  <Label styleClass="itemLabel" text="3" />
+               </children>
+            </HBox>
+            <HBox layoutX="10.0" layoutY="110.0" prefHeight="40.0" prefWidth="230.0">
+               <children>
+                  <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/treasure2.png" />
+                     </image>
+                  </ImageView>
+                  <Label styleClass="itemLabel" text="x" />
+                  <Label styleClass="itemLabel" text="3" />
+               </children>
+            </HBox>
+            <HBox layoutX="10.0" layoutY="150.0" prefHeight="40.0" prefWidth="230.0">
+               <children>
+                  <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/treasure3.png" />
+                     </image>
+                  </ImageView>
+                  <Label styleClass="itemLabel" text="x" />
+                  <Label styleClass="itemLabel" text="3" />
+               </children>
+            </HBox>
+            <HBox layoutX="10.0" layoutY="172.0" prefHeight="40.0" prefWidth="230.0">
+               <children>
+                  <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/treasure4.png" />
+                     </image>
+                  </ImageView>
+                  <Label styleClass="itemLabel" text="x" />
+                  <Label styleClass="itemLabel" text="3" />
+               </children>
+            </HBox>
+            <HBox layoutX="10.0" layoutY="179.0" prefHeight="40.0" prefWidth="230.0">
+               <children>
+                  <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/treasure5.png" />
+                     </image>
+                  </ImageView>
+                  <Label styleClass="itemLabel" text="x" />
+                  <Label styleClass="itemLabel" text="3" />
+               </children>
+            </HBox>
+            <HBox layoutX="10.0" layoutY="200.0" prefHeight="40.0" prefWidth="230.0">
+               <children>
+                  <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/Ship2.png" />
+                     </image>
+                  </ImageView>
+                  <Label styleClass="itemLabel" text="x" />
+                  <Label styleClass="itemLabel" text="6" />
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+      <VBox layoutX="789.0" layoutY="263.0" prefHeight="210.0" prefWidth="92.0">
+         <children>
+            <HBox prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateBlack.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="35" fitWidth="35" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateBlack.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="35" fitWidth="35" layoutX="28.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateBlack.png" />
+                     </image>
+                  </ImageView>
+                  <Label styleClass="itemLabel" text="x" />
+                  <Label styleClass="itemLabel" text="0" />
+               </children>
+            </HBox>
+            <HBox layoutX="10.0" layoutY="45.0" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <ImageView fitHeight="35" fitWidth="35" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateBlack.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="35" fitWidth="35" layoutX="28.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateBlack.png" />
+                     </image>
+                  </ImageView>
+                  <Label styleClass="itemLabel" text="x" />
+                  <Label styleClass="itemLabel" text="0" />
+               </children>
+            </HBox>
+            <HBox layoutX="10.0" layoutY="145.0" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <ImageView fitHeight="35" fitWidth="35" layoutX="28.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateBlack.png" />
+                     </image>
+                  </ImageView>
+                  <Label styleClass="itemLabel" text="x" />
+                  <Label styleClass="itemLabel" text="0" />
+               </children>
+            </HBox>
+            <HBox layoutX="10.0" layoutY="182.0" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <ImageView fitHeight="35" fitWidth="35" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateRed.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="35" fitWidth="35" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateRed.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="35" fitWidth="35" layoutX="28.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateRed.png" />
+                     </image>
+                  </ImageView>
+                  <Label styleClass="itemLabel" text="x" />
+                  <Label styleClass="itemLabel" text="0" />
+               </children>
+            </HBox>
+            <HBox layoutX="10.0" layoutY="199.0" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <ImageView fitHeight="35" fitWidth="35" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateRed.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="35" fitWidth="35" layoutX="28.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateRed.png" />
+                     </image>
+                  </ImageView>
+                  <Label styleClass="itemLabel" text="x" />
+                  <Label styleClass="itemLabel" text="0" />
+               </children>
+            </HBox>
+            <HBox layoutX="10.0" layoutY="209.0" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <ImageView fitHeight="35" fitWidth="35" layoutX="28.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Buccaneer/Buccaneer/src/main/resources/uk/ac/aber/cs221/gp02/textures/PirateRed.png" />
+                     </image>
+                  </ImageView>
+                  <Label styleClass="itemLabel" text="x" />
+                  <Label styleClass="itemLabel" text="0" />
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+      <ImageView fitHeight="87.0" fitWidth="87.0" layoutX="900.0" layoutY="150.0">
+         <image>
+            <Image url="@Trade%20Screen/textures/Ship2.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="87.0" fitWidth="87.0" layoutX="210.0" layoutY="150.0">
+         <image>
+            <Image url="@Trade%20Screen/textures/PortV.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="573.0" layoutY="272.0" mnemonicParsing="false" text="Trade" />
+         <Button layoutX="566.0" layoutY="413.0" mnemonicParsing="false" prefHeight="0.0" prefWidth="94.0" text="Cancel" />
+
+    </children>
+</Pane>

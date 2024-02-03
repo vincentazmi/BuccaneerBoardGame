@@ -1,0 +1,16 @@
+Author: alf56
+Week: 3 (21/02/22)
+Assigned actions
+============
+Action 1: Make a draft of the tests for FR16, FR17
+
+Hours: 1
+
+Action 2: Meeting on saturday
+
+Hours: 1
+
+Other project work
+================
+
+Total hours: 2

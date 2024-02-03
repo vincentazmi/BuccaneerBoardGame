@@ -1,0 +1,25 @@
+Author: mub11
+Week :3 (21/02/2022)
+
+Assigned Actions:
+===============
+
+Action 1: 	1.1
+  ⁃ Booked room for review meeting.
+  ⁃ Planned/Prepared for the review meeting.
+	⁃ Relevant Documents:
+	  ⁃ Use Case Document
+	  ⁃ Interactive ppt slide
+	  ⁃ Requirements Specifications
+	  ⁃ General Documentation Standards(SEQA02)
+	  ⁃ UI Spec Standards (SEQA04) 
+	  ⁃ Review Standards (SEQA07)
+  ⁃ Hours: 2
+
+Action 2: Internal Meeting
+  ⁃ Had meeting to discuss on current tasks and further tasks to start on doing.
+  ⁃ Decided on date and time for the review meeting.
+  ⁃ Hours: 1
+
+
+Total Hours: 3 hrs

@@ -1,0 +1,78 @@
+package uk.ac.aber.cs221.gp02;
+
+
+/**
+ * This class is a template for every Treasure
+ *
+ * @author Adrian
+ * @version 1.0
+ */
+public class Treasure implements Comparable<Treasure>{
+
+
+    private TreasureType type;
+    private int value;
+    private String name;
+
+
+    /**
+     * Just constructor
+     * @param name is a name (to display in the UI)
+     * @param type is a type of treasure e.g. Diamond
+     */
+    public Treasure(String name, TreasureType type) {
+        this.name = name;
+        this.type = type;
+
+        switch (type) {
+            case DIAMOND, RUBIN -> value = 5;
+            case GOLD -> value = 4;
+            case PEARL -> value = 3;
+            case BARREL -> value = 2;
+        }
+
+    }
+
+    /**
+     * Just getter
+     * @return treasureType
+     */
+    public TreasureType getType() {
+        return type;
+    }
+
+    /**
+     * Just getter
+     * @return name
+     */
+    public String getName() {
+        return name;
+    }
+
+    /**
+     * Just getter
+     * @return value
+     */
+    public int getValue(){
+        return value;
+    }
+
+    /**
+     * This method allows comparing treasures to sort them in the list
+     * @param o is another treasure object
+     * @return one of 2 cards
+     */
+    @Override
+    public int compareTo(Treasure o) {
+        return Integer.compare(this.getValue(), o.getValue());
+    }
+
+    /**
+     * Just toString()
+     * @return String representation
+     */
+    @Override
+    public String toString() {
+        return name + " of value: " + value;
+    }
+}

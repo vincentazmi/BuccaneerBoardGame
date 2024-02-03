@@ -1,0 +1,24 @@
+Author: kha9
+Week: 4 (22/02/22)
+Assigned actions
+============
+
+Action 1:
+Review UI spec draft
+Hours:1
+
+
+Action 2:
+Work on UI spec and improve on what was mentioned in the review
+Hours: 2
+
+Action 3: 
+Start main menu design
+
+Hours: 2
+
+
+Other project work
+================
+
+Total hours: 5

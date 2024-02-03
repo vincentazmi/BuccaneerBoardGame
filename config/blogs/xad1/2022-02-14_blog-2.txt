@@ -1,0 +1,15 @@
+Author:  xad1
+Week: 2 (14/02/22)
+
+Assigned actions
+============
+Action 1: 1.5
+Further investigated how states can be represented through the state design pattern. Created a PDF document and wrote a prototype in java to demonstrate.
+Hours: 2.5
+
+Action 2: 2.1
+Group decided on who will be the Project Leader, Deputy Project Leader, QA Manager, and Deputy QA Manager.
+Hours: 1
+
+
+Total Hours: 3.5

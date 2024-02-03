@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.shape.Rectangle?>
+<StackPane xmlns:fx="http://javafx.com/fxml"
+           fx:controller="com.example.panes.components.BattleScreenController" disable="true" opacity="0">
+    <Rectangle width="10000" height="10000" fill="#00000050"></Rectangle>
+    <Rectangle width="150" height="150" fill="saddlebrown" />
+    <Button text="End battle" onAction="#endBattle" />
+</StackPane>

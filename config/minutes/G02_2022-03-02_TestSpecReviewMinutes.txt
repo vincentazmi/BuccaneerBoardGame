@@ -1,0 +1,79 @@
+CS22120 Project: Group 02
+Meeting: Formal Test Specification Review Meeting
+Persons present: mub11, all49, dah73, alf56, alg68, via8
+Place and date of meeting: Hugh Owen Library Group Study Room 7, Wednesday 2nd March 2022
+
+Circulation list: Every group member
+Author(s): Mukhriz, Alexander
+Date of minutes: 2nd March 2022
+Version: 1.0
+
+Matters arising:
+===========
+NONE
+
+New business:
+===========
+
+Issues to fix:
+
+1 Fix the page numbers.
+
+2 Version Number should start with 0 while not released
+
+3 Update the references. (Fix the format and possibly remove any bits not needed)
+
+4 Ask Yassir/Chris if there should be a main menu since requirements mentioned "When the game starts up, it will prompt the users for the name of each of the four players...".
+
+5 Change inputs to ensure repeatability.
+
+6 Add another test to limit name length maybe.
+
+7 Improve input for SE-04-008.
+
+8 [SE 04-013] Change passing criteria to check if last card from the top is no longer on the top .
+
+9 [SE-04-019] Ensure that once all treasure of a specific type has been assigned elsewhere then the request to obtain that type of treasure from treasure island should be rejected.
+
+10 [SE-04-020 and SE-04-021] Make input more repeatable (for e.g. pick the same amount of cards every time).
+
+11 [SE-04-021] Change passing criteria from “wanted” to “are allowed”.
+
+12 [SE-04-024] Change passing criteria: Check if correct treasure is present instead of just the number of treasures.
+
+13 [SE-04-026] Change test to keep track of the player's home port throuoghout the game instead of the treasures on it.
+
+14 [SE-04-029] Check if test is a duplicate of test SE-04-026 as they are both keeping track of the home ports. 
+
+15 [SE-04-038] Update input to “Begin the game" as they dont need to do anything yet to be assigned a home port. (Basically remove pick up 5 cards)
+
+16 [SE-04-039] Output and passing criteria should just reference trading port, not home port.
+
+17 [SE-04-040] Update test content to “total value must be 8”. Update input and output as well.
+
+18 [SE-04-43] Update output to give a warning that ship cannot turn.
+
+19 [SE-04-46] Update test content, output and passing criteria to follow the requirements spec about attacking being a must instead of optional.
+
+20 [SE-04-48] Update test content. Removed decision to attack.
+
+21 [SE-04-50] Update passing criteria to specify that player can hold a maximum of two treasure.
+
+22 [SE-04-53] Update passing criteria.
+
+23 [SE-04-56] Update content, input and passing criteria.
+
+24 [SE-04-62] Update output and passing criteria to say player is given/dealt the cards.
+
+25 [SE-04-64] Update passing criteria to mention increase of treasure at home port.
+
+
+AOB
+===
+NONE
+
+Minutes by mub11, 2nd March 2022
+Updated 8th March 2022
+
+
+
